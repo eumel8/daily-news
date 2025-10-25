@@ -45,5 +45,3 @@ fi
 COUNT=$(jq length "$OUTFILE" 2>/dev/null || echo 0)
 echo "Collected $COUNT repos" >&2
 jq . "$OUTFILE"
-
-find
