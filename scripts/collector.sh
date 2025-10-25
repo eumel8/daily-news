@@ -14,7 +14,7 @@ jq -n '[]' > "$OUTFILE"
 for q in $(jq -r '.[]' "$QUERIES_FILE"); do
   echo "Searching: $q" >&2
   # gh search repos accepts query string; use --json for structured output.
-  gh search repos "$q" --limit "$LIMIT" --json name,description,url,createdAt,pushedAt,stargazerCount,owner,primaryLanguage,topics --jq '.[]' \
+  gh search repos "$q" --limit "$LIMIT" --json name,description,url,createdAt,pushedAt,stargazersCount,owner,primaryLanguage,topics --jq '.[]' \
     | jq --arg query "$q" '. + {__query: $query}' > /tmp/_search_results.json
 
   if [ -s /tmp/_search_results.json ]; then
