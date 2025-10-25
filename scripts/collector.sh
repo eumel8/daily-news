@@ -11,7 +11,7 @@ mkdir -p "$TMP_DIR"
 
 # Sammle alle Einzelergebnisse als separate Arrays
 i=0
-for q in $(jq -r '.[]' "$QUERIES_FILE"); do
+while IFS= read -r q; do
   echo "Searching: $q" >&2
   FILE="$TMP_DIR/q_${i}.json"
   if gh search repos "$q" --limit "$LIMIT" \
@@ -28,7 +28,7 @@ for q in $(jq -r '.[]' "$QUERIES_FILE"); do
     echo "[]" >"$TMP_DIR/clean_${i}.json"
   fi
   i=$((i+1))
-done
+done < <(jq -r '.[]' "$QUERIES_FILE")
 
 # Kombiniere alle Arrays in eine Liste und entferne Duplikate
 if ls "$TMP_DIR"/clean_*.json >/dev/null 2>&1; then
