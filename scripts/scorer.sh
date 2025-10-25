@@ -11,17 +11,14 @@ now_epoch=$(date +%s)
 
 jq --arg now "$now_epoch" '
   map(
-    . as $r |
-    (
-      ($now|tonumber) as $now
-      | ($r.pushedAt // $r.createdAt) as $ts
-      | ($ts|fromdateiso8601) as $pushed
-      | ($now - ($pushed|floor)) / 86400 as $age_days
-    )
+    ($now|tonumber) as $now_num
+    | (.pushedAt // .createdAt) as $ts
+    | ($ts|fromdateiso8601) as $pushed
+    | (($now_num - ($pushed|floor)) / 86400) as $age_days
     | .score = (
-        (max(0; 30 - $age_days) / 30) * 50
+        (([0, 30 - $age_days] | max) / 30) * 50
         + (.stargazersCount // 0) * 1
-        + ((.language // "") != "") * 2
+        + (if (.language // "") != "" then 2 else 0 end)
       )
   )
   | sort_by(-.score)

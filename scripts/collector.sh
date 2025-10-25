@@ -17,10 +17,15 @@ while IFS= read -r q; do
   if gh search repos "$q" --limit "$LIMIT" \
       --json name,fullName,description,url,createdAt,pushedAt,stargazersCount,owner,language,updatedAt,forksCount \
       >"$FILE" 2>/dev/null; then
-    if jq empty "$FILE" 2>/dev/null; then
-      jq --arg query "$q" '[.[] | select(type=="object" and has("url")) | . + {__query: $query}]' "$FILE" >"$TMP_DIR/clean_${i}.json"
+    if jq -e 'type == "array"' "$FILE" >/dev/null 2>&1; then
+      if jq --arg query "$q" '[.[] | select(type=="object" and has("url")) | . + {__query: $query}]' "$FILE" >"$TMP_DIR/clean_${i}.json" 2>/dev/null; then
+        : # Success
+      else
+        echo "Failed to process results for query: $q" >&2
+        echo "[]" >"$TMP_DIR/clean_${i}.json"
+      fi
     else
-      echo "Invalid JSON for query: $q" >&2
+      echo "Invalid JSON format (not an array) for query: $q" >&2
       echo "[]" >"$TMP_DIR/clean_${i}.json"
     fi
   else
