@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Create GitHub issues for new repos.
+# Create GitHub issues in THIS repository for discovered repos.
+# Each issue contains information about a discovered repository.
 # Uses GITHUB_REPOSITORY (owner/repo) and GITHUB_TOKEN env available in Actions.
 
 SCORED_FILE=${1:-data/scored_repos.json}
@@ -9,7 +10,8 @@ STATE_FILE=${2:-state.json}
 MAX=10
 
 if [ -z "${GITHUB_REPOSITORY:-}" ]; then
-  echo "GITHUB_REPOSITORY not set. Set TARGET_REPO env or run inside Actions." >&2
+  echo "GITHUB_REPOSITORY not set. This should be set automatically in GitHub Actions." >&2
+  echo "If running locally, set: export GITHUB_REPOSITORY=owner/repo" >&2
   exit 1
 fi
 
@@ -56,7 +58,8 @@ Score: $score
 
 Automatically discovered by github-daily-new-repos-issues."
 
-  # Create issue via API
+  # Create issue in THIS repository (not in the discovered repo)
+  # The issue will contain information ABOUT the discovered repo
   api_url="https://api.github.com/repos/${GITHUB_REPOSITORY}/issues"
   payload=$(jq -n --arg t "$title" --arg b "$body" '{title: $t, body: $b, labels: ["new-repo"]}')
 
