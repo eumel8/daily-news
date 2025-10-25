@@ -1,0 +1,29 @@
+name: Daily new-repos -> issues
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # daily at 07:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+          gh --version || curl -fsSL https://github.com/cli/cli/releases/latest/download/gh_2.27.0_linux_amd64.tar.gz | tar -xz && sudo cp gh_2.27.0_linux_amd64/bin/gh /usr/local/bin/gh || true
+      - name: Authenticate gh (optional)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Authenticating gh"
+          echo $GITHUB_TOKEN | gh auth login --with-token || true
+      - name: Run pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          ./scripts/runner.sh

@@ -1,0 +1,6 @@
+[
+  "topic:kubernetes language:go created:>2025-01-01", 
+  "topic:observability language:go created:>2025-01-01",
+  "topic:prometheus language:go created:>2025-01-01",
+  "topic:terraform language:hcl created:>2025-01-01"
+]
