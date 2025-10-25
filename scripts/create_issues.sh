@@ -32,7 +32,12 @@ seen_urls=$(jq -r '.seen[]?' "$STATE_FILE" 2>/dev/null || true)
 
 count=0
 
-jq -c '.[]' "$SCORED_FILE" | while read -r repo; do
+# Disable pipefail temporarily to avoid "Broken pipe" error when breaking early
+# jq may still be writing when the loop exits after MAX issues
+(
+  set +o pipefail
+  jq -c '.[]' "$SCORED_FILE" 2>/dev/null || true
+) | while read -r repo; do
   url=$(echo "$repo" | jq -r '.url')
   fullName=$(echo "$repo" | jq -r '.fullName // .name')
   desc=$(echo "$repo" | jq -r '.description // "(no description)"')
