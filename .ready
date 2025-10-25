@@ -1,2 +1,1 @@
-Repository scaffold created. Commit contains scripts, workflow and config.
-Edit config/queries.json to refine searches.
+Scaffold created and collector/scorer adjusted to gh available fields. Edit config/queries.json to refine searches.
