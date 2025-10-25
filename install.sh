@@ -26,8 +26,6 @@ Security
 
 README
 
-README
-
 # File: .gitignore
 cat > .gitignore <<'GITIGNORE'
 state.json
