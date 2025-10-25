@@ -3,6 +3,7 @@ set -euo pipefail
 
 # Collect repos for each query and output unified JSON array
 # Requires: gh, jq
+# NOTE: gh's available JSON fields vary. Use fields confirmed available by the user's gh.
 
 QUERIES_FILE="config/queries.json"
 LIMIT=30
@@ -11,21 +12,36 @@ mkdir -p data
 
 jq -n '[]' > "$OUTFILE"
 
+auth_check() {
+  if ! command -v gh >/dev/null 2>&1; then
+    echo "gh CLI not found" >&2
+    exit 1
+  fi
+  if ! command -v jq >/dev/null 2>&1; then
+    echo "jq not found" >&2
+    exit 1
+  fi
+}
+
+auth_check
+
 for q in $(jq -r '.[]' "$QUERIES_FILE"); do
   echo "Searching: $q" >&2
-  # gh search repos accepts query string; use --json for structured output.
-  gh search repos "$q" --limit "$LIMIT" --json name,description,url,createdAt,pushedAt,stargazersCount,owner,language,topics --jq '.[]' \
-    | jq --arg query "$q" '. + {__query: $query}' > /tmp/_search_results.json
+  # Use fields that are available per gh output
+  # available fields: name, fullName, description, url, createdAt, pushedAt, stargazersCount, owner, language, updatedAt, forksCount, size
+  gh search repos "$q" --limit "$LIMIT" --json name,fullName,description,url,createdAt,pushedAt,stargazersCount,owner,language,updatedAt,forksCount --jq '.[]' \
+    > /tmp/_search_results.json || true
 
   if [ -s /tmp/_search_results.json ]; then
-    jq -s 'add' /tmp/_search_results.json /dev/null 2>/dev/null || true
-  fi
+    # attach query metadata
+    jq --arg query "$q" '. + {__query: $query}' /tmp/_search_results.json > /tmp/_search_results_tagged.json
 
-  # append each object to OUTFILE array
-  if [ -f /tmp/_search_results.json ]; then
-    jq -s '[.[0]] + (.[1] // [])' <(jq -s '.[0]' "$OUTFILE") /tmp/_search_results.json > "$OUTFILE.tmp" || true
+    # append to OUTFILE array
+    jq -s '.[0] + [.[1]] | add' <(jq -s '.' "$OUTFILE") /tmp/_search_results_tagged.json > "$OUTFILE.tmp" 2>/dev/null || jq -s '.[0] + .[1]' <(jq -s '.' "$OUTFILE") /tmp/_search_results_tagged.json > "$OUTFILE.tmp"
     mv "$OUTFILE.tmp" "$OUTFILE"
-    rm -f /tmp/_search_results.json
+    rm -f /tmp/_search_results.json /tmp/_search_results_tagged.json
+  else
+    echo "No results for query: $q" >&2
   fi
 done
 

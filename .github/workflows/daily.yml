@@ -14,7 +14,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y jq curl
-          gh --version || curl -fsSL https://github.com/cli/cli/releases/latest/download/gh_2.27.0_linux_amd64.tar.gz | tar -xz && sudo cp gh_2.27.0_linux_amd64/bin/gh /usr/local/bin/gh || true
+          gh --version || true
       - name: Authenticate gh (optional)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Create GitHub issues for new repos.
-# Uses GITHUB_REPO (owner/repo) and GITHUB_TOKEN env available in Actions.
+# Uses GITHUB_REPOSITORY (owner/repo) and GITHUB_TOKEN env available in Actions.
 
 SCORED_FILE=${1:-data/scored_repos.json}
 STATE_FILE=${2:-state.json}
@@ -32,7 +32,7 @@ count=0
 
 jq -c '.[]' "$SCORED_FILE" | while read -r repo; do
   url=$(echo "$repo" | jq -r '.url')
-  name=$(echo "$repo" | jq -r '.name')
+  fullName=$(echo "$repo" | jq -r '.fullName // .name')
   desc=$(echo "$repo" | jq -r '.description // "(no description)"')
   score=$(echo "$repo" | jq -r '.score')
   pushedAt=$(echo "$repo" | jq -r '.pushedAt // .createdAt')
@@ -45,8 +45,16 @@ jq -c '.[]' "$SCORED_FILE" | while read -r repo; do
     break
   fi
 
-  title="New repo: $name — score $(printf "%.1f" "$score")"
-  body="Repository: $url\n\nDescription: $desc\n\nPushed: $pushedAt\n\nScore: $score\n\nAutomatically discovered by github-daily-new-repos-issues."
+  title="New repo: $fullName — score $(printf "%.1f" "$score")"
+  body="Repository: $url
+
+Description: $desc
+
+Pushed: $pushedAt
+
+Score: $score
+
+Automatically discovered by github-daily-new-repos-issues."
 
   # Create issue via API
   api_url="https://api.github.com/repos/${GITHUB_REPOSITORY}/issues"
