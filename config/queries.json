@@ -1,7 +1,7 @@
 [
-  "topic:kubernetes language:go created:>2025-10-01", 
-  "topic:observability language:go created:>2025-10-01",
-  "topic:prometheus language:go created:>2025-10-01",
-  "topic:ai language:go created:>2025-10-01",
-  "topic:awesome  created:>2025-10-01"
+  "topic:kubernetes language:go created:>{{YESTERDAY}}",
+  "topic:observability language:go created:>{{YESTERDAY}}",
+  "topic:prometheus language:go created:>{{YESTERDAY}}",
+  "topic:ai language:go created:>{{YESTERDAY}}",
+  "topic:awesome created:>{{YESTERDAY}}"
 ]

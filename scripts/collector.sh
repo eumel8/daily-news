@@ -9,9 +9,16 @@ TMP_DIR="/tmp/ghcollector"
 rm -rf "$TMP_DIR"
 mkdir -p "$TMP_DIR"
 
+# Calculate yesterday's date in YYYY-MM-DD format
+# Works on both Linux (date -d) and macOS (date -v)
+YESTERDAY=$(date -d "yesterday" +%Y-%m-%d 2>/dev/null || date -v-1d +%Y-%m-%d 2>/dev/null)
+echo "Using date filter: created:>$YESTERDAY" >&2
+
 # Sammle alle Einzelergebnisse als separate Arrays
 i=0
 while IFS= read -r q; do
+  # Replace {{YESTERDAY}} placeholder with actual date
+  q=$(echo "$q" | sed "s/{{YESTERDAY}}/$YESTERDAY/g")
   echo "Searching: $q" >&2
   FILE="$TMP_DIR/q_${i}.json"
   if gh search repos "$q" --limit "$LIMIT" \
