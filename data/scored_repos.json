@@ -26,7 +26,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 0.3575
+      "age_hours": 0.53
     }
   },
   {
@@ -43,7 +43,7 @@
       "type": "Organization",
       "url": "https://github.com/langchain-ai"
     },
-    "pushedAt": "2025-10-29T20:02:59Z",
+    "pushedAt": "2025-10-29T20:18:40Z",
     "stargazersCount": 118393,
     "updatedAt": "2025-10-29T19:55:55Z",
     "url": "https://github.com/langchain-ai/langchain",
@@ -56,7 +56,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 0.10944444444444444
+      "age_hours": 0.020555555555555556
     }
   },
   {
@@ -73,7 +73,7 @@
       "type": "Organization",
       "url": "https://github.com/ClickHouse"
     },
-    "pushedAt": "2025-10-29T20:04:46Z",
+    "pushedAt": "2025-10-29T20:18:13Z",
     "stargazersCount": 43663,
     "updatedAt": "2025-10-29T19:54:02Z",
     "url": "https://github.com/ClickHouse/ClickHouse",
@@ -86,7 +86,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 0.07972222222222222
+      "age_hours": 0.028055555555555556
     }
   },
   {
@@ -116,7 +116,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 4.564722222222223
+      "age_hours": 4.737222222222222
     }
   },
   {
@@ -146,7 +146,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 2.437777777777778
+      "age_hours": 2.6102777777777777
     }
   },
   {
@@ -176,7 +176,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 2.0097222222222224
+      "age_hours": 2.1822222222222223
     }
   },
   {
@@ -206,7 +206,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 1.1675
+      "age_hours": 1.34
     }
   },
   {
@@ -236,7 +236,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 2.4675
+      "age_hours": 2.64
     }
   },
   {
@@ -266,7 +266,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 0.9922222222222222
+      "age_hours": 1.1647222222222222
     }
   },
   {
@@ -296,7 +296,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 2.667222222222222
+      "age_hours": 2.839722222222222
     }
   },
   {
@@ -326,7 +326,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 1.366111111111111
+      "age_hours": 1.5386111111111112
     }
   },
   {
@@ -343,7 +343,7 @@
       "type": "Organization",
       "url": "https://github.com/tensorflow"
     },
-    "pushedAt": "2025-10-29T20:06:27Z",
+    "pushedAt": "2025-10-29T20:17:21Z",
     "stargazersCount": 192255,
     "updatedAt": "2025-10-29T20:05:05Z",
     "url": "https://github.com/tensorflow/tensorflow",
@@ -356,7 +356,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 0.051666666666666666
+      "age_hours": 0.0425
     }
   },
   {
@@ -386,7 +386,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 4.415
+      "age_hours": 4.5875
     }
   },
   {
@@ -416,7 +416,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 4.909166666666667
+      "age_hours": 5.081666666666667
     }
   },
   {
@@ -433,9 +433,9 @@
       "type": "Organization",
       "url": "https://github.com/continuedev"
     },
-    "pushedAt": "2025-10-29T18:05:52Z",
+    "pushedAt": "2025-10-29T20:19:06Z",
     "stargazersCount": 29555,
-    "updatedAt": "2025-10-29T19:58:46Z",
+    "updatedAt": "2025-10-29T20:17:38Z",
     "url": "https://github.com/continuedev/continue",
     "__query": "topic:cli language:rust created:>2025-10-28",
     "score": 106,
@@ -446,7 +446,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 2.0613888888888887
+      "age_hours": 0.013333333333333334
     }
   },
   {
@@ -476,7 +476,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 4.467777777777778
+      "age_hours": 4.6402777777777775
     }
   },
   {
@@ -493,7 +493,7 @@
       "type": "Organization",
       "url": "https://github.com/projectcalico"
     },
-    "pushedAt": "2025-10-29T20:05:08Z",
+    "pushedAt": "2025-10-29T20:17:22Z",
     "stargazersCount": 6854,
     "updatedAt": "2025-10-29T19:35:10Z",
     "url": "https://github.com/projectcalico/calico",
@@ -506,7 +506,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 0.07361111111111111
+      "age_hours": 0.042222222222222223
     }
   },
   {
@@ -536,7 +536,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.21972222222222224
+      "age_hours": 0.39222222222222225
     }
   },
   {
@@ -566,7 +566,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.01361111111111111
+      "age_hours": 0.18611111111111112
     }
   },
   {
@@ -583,9 +583,9 @@
       "type": "Organization",
       "url": "https://github.com/OpenHands"
     },
-    "pushedAt": "2025-10-29T20:03:46Z",
+    "pushedAt": "2025-10-29T20:17:48Z",
     "stargazersCount": 64554,
-    "updatedAt": "2025-10-29T19:19:28Z",
+    "updatedAt": "2025-10-29T20:17:52Z",
     "url": "https://github.com/OpenHands/OpenHands",
     "__query": "topic:cli language:rust created:>2025-10-28",
     "score": 105,
@@ -596,7 +596,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.09638888888888889
+      "age_hours": 0.035
     }
   },
   {
@@ -626,7 +626,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 4.348888888888889
+      "age_hours": 4.521388888888889
     }
   },
   {
@@ -644,8 +644,8 @@
       "url": "https://github.com/firecrawl"
     },
     "pushedAt": "2025-10-29T19:22:47Z",
-    "stargazersCount": 65358,
-    "updatedAt": "2025-10-29T19:49:38Z",
+    "stargazersCount": 65359,
+    "updatedAt": "2025-10-29T20:16:40Z",
     "url": "https://github.com/firecrawl/firecrawl",
     "__query": "topic:ai language:python created:>2025-10-28",
     "score": 105,
@@ -656,7 +656,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.7794444444444445
+      "age_hours": 0.9519444444444445
     }
   },
   {
@@ -686,7 +686,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 1.25
+      "age_hours": 1.4225
     }
   },
   {
@@ -716,7 +716,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 4.5325
+      "age_hours": 4.705
     }
   },
   {
@@ -733,7 +733,7 @@
       "type": "Organization",
       "url": "https://github.com/seaweedfs"
     },
-    "pushedAt": "2025-10-29T19:34:36Z",
+    "pushedAt": "2025-10-29T20:17:58Z",
     "stargazersCount": 26691,
     "updatedAt": "2025-10-29T20:02:43Z",
     "url": "https://github.com/seaweedfs/seaweedfs",
@@ -746,7 +746,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.5825
+      "age_hours": 0.03222222222222222
     }
   },
   {
@@ -776,7 +776,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.21444444444444444
+      "age_hours": 0.3869444444444444
     }
   },
   {
@@ -806,7 +806,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 2.2288888888888887
+      "age_hours": 2.401388888888889
     }
   },
   {
@@ -836,7 +836,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 0.7394444444444445
+      "age_hours": 0.9119444444444444
     }
   },
   {
@@ -866,7 +866,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 4.703333333333333
+      "age_hours": 4.8758333333333335
     }
   },
   {
@@ -884,8 +884,8 @@
       "url": "https://github.com/avelino"
     },
     "pushedAt": "2025-10-29T16:52:21Z",
-    "stargazersCount": 156046,
-    "updatedAt": "2025-10-29T20:03:52Z",
+    "stargazersCount": 156047,
+    "updatedAt": "2025-10-29T20:18:59Z",
     "url": "https://github.com/avelino/awesome-go",
     "__query": "topic:awesome created:>2025-10-28",
     "score": 104,
@@ -896,7 +896,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 3.2866666666666666
+      "age_hours": 3.4591666666666665
     }
   },
   {
@@ -926,7 +926,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 0.25472222222222224
+      "age_hours": 0.4272222222222222
     }
   },
   {
@@ -956,13 +956,13 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 0.2325
+      "age_hours": 0.405
     }
   },
   {
     "createdAt": "2021-01-05T18:49:45Z",
     "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
-    "forksCount": 3043,
+    "forksCount": 3044,
     "fullName": "payloadcms/payload",
     "language": "TypeScript",
     "name": "payload",
@@ -986,7 +986,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 0.7286111111111111
+      "age_hours": 0.9011111111111111
     }
   },
   {
@@ -1008,15 +1008,15 @@
     "updatedAt": "2025-10-29T16:51:09Z",
     "url": "https://github.com/RustPython/RustPython",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 103.16163194444445,
+    "score": 103.05381944444444,
     "score_breakdown": {
-      "recency": 46.161631944444444,
+      "recency": 46.05381944444444,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 6.141388888888889
+      "age_hours": 6.313888888888889
     }
   },
   {
@@ -1046,7 +1046,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 1.9272222222222222
+      "age_hours": 2.0997222222222223
     }
   },
   {
@@ -1064,8 +1064,8 @@
       "url": "https://github.com/GyulyVGC"
     },
     "pushedAt": "2025-10-29T14:27:37Z",
-    "stargazersCount": 31519,
-    "updatedAt": "2025-10-29T19:58:45Z",
+    "stargazersCount": 31520,
+    "updatedAt": "2025-10-29T20:14:10Z",
     "url": "https://github.com/GyulyVGC/sniffnet",
     "__query": "topic:security language:go created:>2025-10-28",
     "score": 103,
@@ -1076,7 +1076,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 5.698888888888889
+      "age_hours": 5.871388888888889
     }
   },
   {
@@ -1106,7 +1106,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.012222222222222223
+      "age_hours": 0.18472222222222223
     }
   },
   {
@@ -1136,7 +1136,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 1.5247222222222223
+      "age_hours": 1.6972222222222222
     }
   },
   {
@@ -1154,8 +1154,8 @@
       "url": "https://github.com/authelia"
     },
     "pushedAt": "2025-10-29T17:49:23Z",
-    "stargazersCount": 25641,
-    "updatedAt": "2025-10-29T19:01:53Z",
+    "stargazersCount": 25642,
+    "updatedAt": "2025-10-29T20:15:14Z",
     "url": "https://github.com/authelia/authelia",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
     "score": 103,
@@ -1166,7 +1166,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 2.3361111111111112
+      "age_hours": 2.508611111111111
     }
   },
   {
@@ -1196,7 +1196,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.23027777777777778
+      "age_hours": 0.4027777777777778
     }
   },
   {
@@ -1226,7 +1226,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 3.4452777777777777
+      "age_hours": 3.617777777777778
     }
   },
   {
@@ -1256,7 +1256,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.5125
+      "age_hours": 0.685
     }
   },
   {
@@ -1286,7 +1286,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.43583333333333335
+      "age_hours": 0.6083333333333333
     }
   },
   {
@@ -1316,7 +1316,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.675
+      "age_hours": 0.8475
     }
   },
   {
@@ -1346,7 +1346,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 4.316944444444444
+      "age_hours": 4.489444444444445
     }
   },
   {
@@ -1364,8 +1364,8 @@
       "url": "https://github.com/langfuse"
     },
     "pushedAt": "2025-10-29T19:43:35Z",
-    "stargazersCount": 17696,
-    "updatedAt": "2025-10-29T19:08:45Z",
+    "stargazersCount": 17697,
+    "updatedAt": "2025-10-29T20:17:31Z",
     "url": "https://github.com/langfuse/langfuse",
     "__query": "topic:observability language:go created:>2025-10-28",
     "score": 103,
@@ -1376,7 +1376,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.43277777777777776
+      "age_hours": 0.6052777777777778
     }
   },
   {
@@ -1394,8 +1394,8 @@
       "url": "https://github.com/lobehub"
     },
     "pushedAt": "2025-10-29T18:50:43Z",
-    "stargazersCount": 67258,
-    "updatedAt": "2025-10-29T19:58:46Z",
+    "stargazersCount": 67257,
+    "updatedAt": "2025-10-29T20:18:26Z",
     "url": "https://github.com/lobehub/lobe-chat",
     "__query": "topic:ai language:python created:>2025-10-28",
     "score": 103,
@@ -1406,7 +1406,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 1.3138888888888889
+      "age_hours": 1.486388888888889
     }
   },
   {
@@ -1436,7 +1436,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.135
+      "age_hours": 0.3075
     }
   },
   {
@@ -1453,7 +1453,7 @@
       "type": "Organization",
       "url": "https://github.com/supabase"
     },
-    "pushedAt": "2025-10-29T20:02:38Z",
+    "pushedAt": "2025-10-29T20:15:17Z",
     "stargazersCount": 90849,
     "updatedAt": "2025-10-29T20:02:42Z",
     "url": "https://github.com/supabase/supabase",
@@ -1466,7 +1466,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 0.11527777777777778
+      "age_hours": 0.07694444444444444
     }
   },
   {
@@ -1496,7 +1496,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 1.6830555555555555
+      "age_hours": 1.8555555555555556
     }
   },
   {
@@ -1513,9 +1513,9 @@
       "type": "Organization",
       "url": "https://github.com/JetBrains"
     },
-    "pushedAt": "2025-10-29T19:53:13Z",
+    "pushedAt": "2025-10-29T20:11:21Z",
     "stargazersCount": 51511,
-    "updatedAt": "2025-10-29T19:24:03Z",
+    "updatedAt": "2025-10-29T20:11:25Z",
     "url": "https://github.com/JetBrains/kotlin",
     "__query": "topic:wasm created:>2025-10-28",
     "score": 102,
@@ -1526,7 +1526,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 0.2722222222222222
+      "age_hours": 0.1425
     }
   },
   {
@@ -1543,7 +1543,7 @@
       "type": "Organization",
       "url": "https://github.com/hashicorp"
     },
-    "pushedAt": "2025-10-29T19:53:26Z",
+    "pushedAt": "2025-10-29T20:13:17Z",
     "stargazersCount": 29468,
     "updatedAt": "2025-10-29T15:45:02Z",
     "url": "https://github.com/hashicorp/consul",
@@ -1556,7 +1556,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 0.26861111111111113
+      "age_hours": 0.11027777777777778
     }
   },
   {
@@ -1586,7 +1586,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 1.583611111111111
+      "age_hours": 1.7561111111111112
     }
   },
   {
@@ -1616,7 +1616,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 4.098055555555556
+      "age_hours": 4.270555555555555
     }
   },
   {
@@ -1646,7 +1646,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 1.3872222222222221
+      "age_hours": 1.5597222222222222
     }
   },
   {
@@ -1668,75 +1668,15 @@
     "updatedAt": "2025-10-29T20:07:54Z",
     "url": "https://github.com/localstack/localstack",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 101.96267361111111,
+    "score": 101.85486111111112,
     "score_breakdown": {
-      "recency": 44.96267361111111,
+      "recency": 44.85486111111111,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 8.059722222222222
-    }
-  },
-  {
-    "createdAt": "2022-08-24T07:29:42Z",
-    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
-    "forksCount": 1654,
-    "fullName": "gethomepage/homepage",
-    "language": "JavaScript",
-    "name": "homepage",
-    "owner": {
-      "id": "O_kgDOB1PC0A",
-      "is_bot": false,
-      "login": "gethomepage",
-      "type": "Organization",
-      "url": "https://github.com/gethomepage"
-    },
-    "pushedAt": "2025-10-29T12:14:41Z",
-    "stargazersCount": 26410,
-    "updatedAt": "2025-10-29T20:01:03Z",
-    "url": "https://github.com/gethomepage/homepage",
-    "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 101.05347222222221,
-    "score_breakdown": {
-      "recency": 45.05347222222222,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 8,
-      "age_hours": 7.914444444444444
-    }
-  },
-  {
-    "createdAt": "2020-04-08T03:26:49Z",
-    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. ",
-    "forksCount": 4489,
-    "fullName": "srbhr/Resume-Matcher",
-    "language": "Python",
-    "name": "Resume-Matcher",
-    "owner": {
-      "id": "MDQ6VXNlcjU0NDcyODY0",
-      "is_bot": false,
-      "login": "srbhr",
-      "type": "User",
-      "url": "https://github.com/srbhr"
-    },
-    "pushedAt": "2025-10-29T12:12:16Z",
-    "stargazersCount": 23799,
-    "updatedAt": "2025-10-29T19:25:34Z",
-    "url": "https://github.com/srbhr/Resume-Matcher",
-    "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 101.0282986111111,
-    "score_breakdown": {
-      "recency": 45.028298611111104,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 8,
-      "age_hours": 7.954722222222222
+      "age_hours": 8.232222222222223
     }
   },
   {
@@ -1766,7 +1706,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.42138888888888887
+      "age_hours": 0.5938888888888889
     }
   },
   {
@@ -1796,7 +1736,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.39805555555555555
+      "age_hours": 0.5705555555555556
     }
   },
   {
@@ -1826,7 +1766,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.09388888888888888
+      "age_hours": 0.2663888888888889
     }
   },
   {
@@ -1856,7 +1796,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 3.8269444444444445
+      "age_hours": 3.9994444444444444
     }
   },
   {
@@ -1886,7 +1826,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.4886111111111111
+      "age_hours": 0.6611111111111111
     }
   },
   {
@@ -1916,7 +1856,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 1.2475
+      "age_hours": 1.42
     }
   },
   {
@@ -1946,7 +1886,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 4.839722222222222
+      "age_hours": 5.012222222222222
     }
   },
   {
@@ -1976,7 +1916,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 4.031666666666666
+      "age_hours": 4.204166666666667
     }
   },
   {
@@ -2006,7 +1946,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 2.1308333333333334
+      "age_hours": 2.3033333333333332
     }
   },
   {
@@ -2036,7 +1976,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 1.3836111111111111
+      "age_hours": 1.556111111111111
     }
   },
   {
@@ -2053,9 +1993,9 @@
       "type": "Organization",
       "url": "https://github.com/pytorch"
     },
-    "pushedAt": "2025-10-29T20:02:48Z",
+    "pushedAt": "2025-10-29T20:18:28Z",
     "stargazersCount": 94374,
-    "updatedAt": "2025-10-29T20:00:36Z",
+    "updatedAt": "2025-10-29T20:13:57Z",
     "url": "https://github.com/pytorch/pytorch",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
     "score": 101,
@@ -2066,7 +2006,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.1125
+      "age_hours": 0.02388888888888889
     }
   },
   {
@@ -2096,7 +2036,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.42333333333333334
+      "age_hours": 0.5958333333333333
     }
   },
   {
@@ -2113,7 +2053,7 @@
       "type": "Organization",
       "url": "https://github.com/ray-project"
     },
-    "pushedAt": "2025-10-29T19:50:06Z",
+    "pushedAt": "2025-10-29T20:11:46Z",
     "stargazersCount": 39584,
     "updatedAt": "2025-10-29T19:51:04Z",
     "url": "https://github.com/ray-project/ray",
@@ -2126,7 +2066,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.32416666666666666
+      "age_hours": 0.13555555555555557
     }
   },
   {
@@ -2156,7 +2096,67 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 0.6766666666666666
+      "age_hours": 0.8491666666666666
+    }
+  },
+  {
+    "createdAt": "2022-08-24T07:29:42Z",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "forksCount": 1654,
+    "fullName": "gethomepage/homepage",
+    "language": "JavaScript",
+    "name": "homepage",
+    "owner": {
+      "id": "O_kgDOB1PC0A",
+      "is_bot": false,
+      "login": "gethomepage",
+      "type": "Organization",
+      "url": "https://github.com/gethomepage"
+    },
+    "pushedAt": "2025-10-29T12:14:41Z",
+    "stargazersCount": 26410,
+    "updatedAt": "2025-10-29T20:01:03Z",
+    "url": "https://github.com/gethomepage/homepage",
+    "__query": "topic:nextjs language:typescript created:>2025-10-28",
+    "score": 100.94565972222222,
+    "score_breakdown": {
+      "recency": 44.94565972222222,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 8,
+      "age_hours": 8.086944444444445
+    }
+  },
+  {
+    "createdAt": "2020-04-08T03:26:49Z",
+    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. ",
+    "forksCount": 4489,
+    "fullName": "srbhr/Resume-Matcher",
+    "language": "Python",
+    "name": "Resume-Matcher",
+    "owner": {
+      "id": "MDQ6VXNlcjU0NDcyODY0",
+      "is_bot": false,
+      "login": "srbhr",
+      "type": "User",
+      "url": "https://github.com/srbhr"
+    },
+    "pushedAt": "2025-10-29T12:12:16Z",
+    "stargazersCount": 23799,
+    "updatedAt": "2025-10-29T19:25:34Z",
+    "url": "https://github.com/srbhr/Resume-Matcher",
+    "__query": "topic:nextjs language:typescript created:>2025-10-28",
+    "score": 100.9204861111111,
+    "score_breakdown": {
+      "recency": 44.92048611111111,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 8,
+      "age_hours": 8.127222222222223
     }
   },
   {
@@ -2178,15 +2178,15 @@
     "updatedAt": "2025-10-29T17:23:25Z",
     "url": "https://github.com/portainer/portainer",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 100.69184027777777,
+    "score": 100.58402777777778,
     "score_breakdown": {
-      "recency": 45.69184027777777,
+      "recency": 45.58402777777778,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 6.893055555555556
+      "age_hours": 7.065555555555555
     }
   },
   {
@@ -2208,45 +2208,15 @@
     "updatedAt": "2025-10-29T16:38:08Z",
     "url": "https://github.com/AvaloniaUI/Avalonia",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 100.18055555555554,
+    "score": 100.07274305555555,
     "score_breakdown": {
-      "recency": 45.18055555555555,
+      "recency": 45.072743055555556,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 7.711111111111111
-    }
-  },
-  {
-    "createdAt": "2010-02-16T04:10:13Z",
-    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
-    "forksCount": 4340,
-    "fullName": "mitmproxy/mitmproxy",
-    "language": "Python",
-    "name": "mitmproxy",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjQ2NTI3ODc=",
-      "is_bot": false,
-      "login": "mitmproxy",
-      "type": "Organization",
-      "url": "https://github.com/mitmproxy"
-    },
-    "pushedAt": "2025-10-29T12:12:06Z",
-    "stargazersCount": 41015,
-    "updatedAt": "2025-10-29T18:52:17Z",
-    "url": "https://github.com/mitmproxy/mitmproxy",
-    "__query": "topic:security language:go created:>2025-10-28",
-    "score": 100.0265625,
-    "score_breakdown": {
-      "recency": 45.0265625,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 7,
-      "age_hours": 7.9575
+      "age_hours": 7.883611111111111
     }
   },
   {
@@ -2276,13 +2246,13 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 3.0825
+      "age_hours": 3.255
     }
   },
   {
     "createdAt": "2019-09-10T19:23:58Z",
     "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
-    "forksCount": 3538,
+    "forksCount": 3537,
     "fullName": "TanStack/query",
     "language": "TypeScript",
     "name": "query",
@@ -2294,8 +2264,8 @@
       "url": "https://github.com/TanStack"
     },
     "pushedAt": "2025-10-29T16:12:35Z",
-    "stargazersCount": 47178,
-    "updatedAt": "2025-10-29T18:17:00Z",
+    "stargazersCount": 47179,
+    "updatedAt": "2025-10-29T20:16:21Z",
     "url": "https://github.com/TanStack/query",
     "__query": "topic:react language:typescript created:>2025-10-28",
     "score": 100,
@@ -2306,7 +2276,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 3.9494444444444445
+      "age_hours": 4.121944444444445
     }
   },
   {
@@ -2336,7 +2306,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 2.6519444444444447
+      "age_hours": 2.8244444444444445
     }
   },
   {
@@ -2353,7 +2323,7 @@
       "type": "Organization",
       "url": "https://github.com/calcom"
     },
-    "pushedAt": "2025-10-29T19:55:45Z",
+    "pushedAt": "2025-10-29T20:12:45Z",
     "stargazersCount": 38597,
     "updatedAt": "2025-10-29T18:48:03Z",
     "url": "https://github.com/calcom/cal.com",
@@ -2366,7 +2336,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 0.23
+      "age_hours": 0.11916666666666667
     }
   },
   {
@@ -2385,7 +2355,7 @@
     },
     "pushedAt": "2025-10-29T20:06:30Z",
     "stargazersCount": 20773,
-    "updatedAt": "2025-10-29T20:01:05Z",
+    "updatedAt": "2025-10-29T20:10:59Z",
     "url": "https://github.com/elastic/kibana",
     "__query": "topic:observability language:go created:>2025-10-28",
     "score": 100,
@@ -2396,7 +2366,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 0.050833333333333335
+      "age_hours": 0.22333333333333333
     }
   },
   {
@@ -2426,7 +2396,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 1.0747222222222221
+      "age_hours": 1.2472222222222222
     }
   },
   {
@@ -2456,7 +2426,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 4.226944444444444
+      "age_hours": 4.399444444444445
     }
   },
   {
@@ -2486,7 +2456,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 3.8430555555555554
+      "age_hours": 4.015555555555555
     }
   },
   {
@@ -2516,7 +2486,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 4.004722222222222
+      "age_hours": 4.177222222222222
     }
   },
   {
@@ -2546,7 +2516,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 3.792222222222222
+      "age_hours": 3.964722222222222
     }
   },
   {
@@ -2563,7 +2533,7 @@
       "type": "Organization",
       "url": "https://github.com/vercel"
     },
-    "pushedAt": "2025-10-29T19:51:07Z",
+    "pushedAt": "2025-10-29T20:11:27Z",
     "stargazersCount": 135360,
     "updatedAt": "2025-10-29T19:44:24Z",
     "url": "https://github.com/vercel/next.js",
@@ -2576,7 +2546,37 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 0.30722222222222223
+      "age_hours": 0.14083333333333334
+    }
+  },
+  {
+    "createdAt": "2010-02-16T04:10:13Z",
+    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "forksCount": 4340,
+    "fullName": "mitmproxy/mitmproxy",
+    "language": "Python",
+    "name": "mitmproxy",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjQ2NTI3ODc=",
+      "is_bot": false,
+      "login": "mitmproxy",
+      "type": "Organization",
+      "url": "https://github.com/mitmproxy"
+    },
+    "pushedAt": "2025-10-29T12:12:06Z",
+    "stargazersCount": 41015,
+    "updatedAt": "2025-10-29T18:52:17Z",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "__query": "topic:security language:go created:>2025-10-28",
+    "score": 99.91874999999999,
+    "score_breakdown": {
+      "recency": 44.918749999999996,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 7,
+      "age_hours": 8.13
     }
   },
   {
@@ -2598,15 +2598,15 @@
     "updatedAt": "2025-10-29T17:13:29Z",
     "url": "https://github.com/ComposioHQ/composio",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 99.73802083333334,
+    "score": 99.63020833333333,
     "score_breakdown": {
-      "recency": 44.73802083333333,
+      "recency": 44.63020833333333,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 8.419166666666667
+      "age_hours": 8.591666666666667
     }
   },
   {
@@ -2628,15 +2628,15 @@
     "updatedAt": "2025-10-29T19:53:42Z",
     "url": "https://github.com/infiniflow/ragflow",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 99.69809027777777,
+    "score": 99.59027777777777,
     "score_breakdown": {
-      "recency": 45.69809027777777,
+      "recency": 45.59027777777778,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 6.883055555555556
+      "age_hours": 7.055555555555555
     }
   },
   {
@@ -2658,15 +2658,15 @@
     "updatedAt": "2025-10-29T18:17:51Z",
     "url": "https://github.com/freeCodeCamp/devdocs",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 99.63506944444444,
+    "score": 99.52725694444445,
     "score_breakdown": {
-      "recency": 43.63506944444444,
+      "recency": 43.527256944444446,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 10.18388888888889
+      "age_hours": 10.356388888888889
     }
   },
   {
@@ -2688,15 +2688,15 @@
     "updatedAt": "2025-10-29T19:40:48Z",
     "url": "https://github.com/aquasecurity/trivy",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 99.39496527777777,
+    "score": 99.28715277777778,
     "score_breakdown": {
-      "recency": 45.39496527777778,
+      "recency": 45.28715277777777,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 7.368055555555555
+      "age_hours": 7.540555555555556
     }
   },
   {
@@ -2718,45 +2718,15 @@
     "updatedAt": "2025-10-29T19:21:50Z",
     "url": "https://github.com/ethereum/go-ethereum",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 99.38298611111111,
+    "score": 99.27517361111111,
     "score_breakdown": {
-      "recency": 43.38298611111111,
+      "recency": 43.27517361111111,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 10.587222222222222
-    }
-  },
-  {
-    "createdAt": "2024-06-13T23:06:42Z",
-    "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
-    "forksCount": 429,
-    "fullName": "iib0011/omni-tools",
-    "language": "TypeScript",
-    "name": "omni-tools",
-    "owner": {
-      "id": "MDQ6VXNlcjU4ODkyMDc2",
-      "is_bot": false,
-      "login": "iib0011",
-      "type": "User",
-      "url": "https://github.com/iib0011"
-    },
-    "pushedAt": "2025-10-29T12:15:55Z",
-    "stargazersCount": 7360,
-    "updatedAt": "2025-10-29T16:22:45Z",
-    "url": "https://github.com/iib0011/omni-tools",
-    "__query": "topic:devtools created:>2025-10-28",
-    "score": 99.06631944444445,
-    "score_breakdown": {
-      "recency": 45.06631944444444,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 6,
-      "age_hours": 7.893888888888889
+      "age_hours": 10.759722222222223
     }
   },
   {
@@ -2773,9 +2743,9 @@
       "type": "Organization",
       "url": "https://github.com/ChromeDevTools"
     },
-    "pushedAt": "2025-10-29T19:26:40Z",
-    "stargazersCount": 13167,
-    "updatedAt": "2025-10-29T19:49:56Z",
+    "pushedAt": "2025-10-29T20:10:56Z",
+    "stargazersCount": 13171,
+    "updatedAt": "2025-10-29T20:18:00Z",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "__query": "topic:devtools created:>2025-10-28",
     "score": 99,
@@ -2786,7 +2756,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 0.7147222222222223
+      "age_hours": 0.14944444444444444
     }
   },
   {
@@ -2804,8 +2774,8 @@
       "url": "https://github.com/Kong"
     },
     "pushedAt": "2025-10-29T19:48:36Z",
-    "stargazersCount": 37432,
-    "updatedAt": "2025-10-29T19:30:36Z",
+    "stargazersCount": 37433,
+    "updatedAt": "2025-10-29T20:12:16Z",
     "url": "https://github.com/Kong/insomnia",
     "__query": "topic:api created:>2025-10-28",
     "score": 99,
@@ -2816,7 +2786,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 0.3491666666666667
+      "age_hours": 0.5216666666666666
     }
   },
   {
@@ -2846,7 +2816,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 1.1022222222222222
+      "age_hours": 1.2747222222222223
     }
   },
   {
@@ -2876,7 +2846,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 0.31194444444444447
+      "age_hours": 0.48444444444444446
     }
   },
   {
@@ -2906,7 +2876,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 1.7669444444444444
+      "age_hours": 1.9394444444444445
     }
   },
   {
@@ -2936,7 +2906,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 3.3227777777777776
+      "age_hours": 3.495277777777778
     }
   },
   {
@@ -2966,7 +2936,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 4.856944444444444
+      "age_hours": 5.029444444444445
     }
   },
   {
@@ -2996,7 +2966,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 2.48
+      "age_hours": 2.6525
     }
   },
   {
@@ -3026,7 +2996,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 3.9505555555555554
+      "age_hours": 4.123055555555555
     }
   },
   {
@@ -3056,7 +3026,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 1.3091666666666666
+      "age_hours": 1.4816666666666667
     }
   },
   {
@@ -3086,7 +3056,37 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 2.042777777777778
+      "age_hours": 2.2152777777777777
+    }
+  },
+  {
+    "createdAt": "2024-06-13T23:06:42Z",
+    "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+    "forksCount": 429,
+    "fullName": "iib0011/omni-tools",
+    "language": "TypeScript",
+    "name": "omni-tools",
+    "owner": {
+      "id": "MDQ6VXNlcjU4ODkyMDc2",
+      "is_bot": false,
+      "login": "iib0011",
+      "type": "User",
+      "url": "https://github.com/iib0011"
+    },
+    "pushedAt": "2025-10-29T12:15:55Z",
+    "stargazersCount": 7360,
+    "updatedAt": "2025-10-29T16:22:45Z",
+    "url": "https://github.com/iib0011/omni-tools",
+    "__query": "topic:devtools created:>2025-10-28",
+    "score": 98.95850694444445,
+    "score_breakdown": {
+      "recency": 44.958506944444444,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 6,
+      "age_hours": 8.06638888888889
     }
   },
   {
@@ -3108,15 +3108,15 @@
     "updatedAt": "2025-10-29T14:44:58Z",
     "url": "https://github.com/argotorg/solidity",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 98.36232638888889,
+    "score": 98.25451388888888,
     "score_breakdown": {
-      "recency": 45.36232638888889,
+      "recency": 45.25451388888889,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 7.420277777777778
+      "age_hours": 7.592777777777778
     }
   },
   {
@@ -3146,7 +3146,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 4.731388888888889
+      "age_hours": 4.903888888888889
     }
   },
   {
@@ -3176,7 +3176,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 1.218888888888889
+      "age_hours": 1.3913888888888888
     }
   },
   {
@@ -3198,15 +3198,15 @@
     "updatedAt": "2025-10-29T20:01:38Z",
     "url": "https://github.com/apache/skywalking",
     "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 97.86319444444445,
+    "score": 97.75538194444445,
     "score_breakdown": {
-      "recency": 44.863194444444446,
+      "recency": 44.755381944444444,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 8.21888888888889
+      "age_hours": 8.391388888888889
     }
   },
   {
@@ -3228,15 +3228,15 @@
     "updatedAt": "2025-10-29T20:02:32Z",
     "url": "https://github.com/FlowiseAI/Flowise",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 97.62395833333332,
+    "score": 97.51614583333333,
     "score_breakdown": {
-      "recency": 44.62395833333333,
+      "recency": 44.51614583333333,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 8.601666666666667
+      "age_hours": 8.774166666666666
     }
   },
   {
@@ -3258,75 +3258,15 @@
     "updatedAt": "2025-10-29T19:58:46Z",
     "url": "https://github.com/langgenius/dify",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 97.23645833333333,
+    "score": 97.12864583333334,
     "score_breakdown": {
-      "recency": 46.23645833333333,
+      "recency": 46.12864583333333,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 6.0216666666666665
-    }
-  },
-  {
-    "createdAt": "2020-05-18T03:45:11Z",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
-    "forksCount": 17261,
-    "fullName": "ultralytics/yolov5",
-    "language": "Python",
-    "name": "yolov5",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjI2ODMzNDUx",
-      "is_bot": false,
-      "login": "ultralytics",
-      "type": "Organization",
-      "url": "https://github.com/ultralytics"
-    },
-    "pushedAt": "2025-10-29T09:00:04Z",
-    "stargazersCount": 55854,
-    "updatedAt": "2025-10-29T16:37:46Z",
-    "url": "https://github.com/ultralytics/yolov5",
-    "__query": "topic:machine-learning language:python created:>2025-10-28",
-    "score": 97.02621527777777,
-    "score_breakdown": {
-      "recency": 43.02621527777777,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 6,
-      "age_hours": 11.158055555555556
-    }
-  },
-  {
-    "createdAt": "2018-12-08T08:21:47Z",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-    "forksCount": 8142,
-    "fullName": "fastapi/fastapi",
-    "language": "Python",
-    "name": "fastapi",
-    "owner": {
-      "id": "O_kgDOCVHG-A",
-      "is_bot": false,
-      "login": "fastapi",
-      "type": "Organization",
-      "url": "https://github.com/fastapi"
-    },
-    "pushedAt": "2025-10-29T13:46:56Z",
-    "stargazersCount": 91293,
-    "updatedAt": "2025-10-29T20:06:54Z",
-    "url": "https://github.com/fastapi/fastapi",
-    "__query": "topic:api created:>2025-10-28",
-    "score": 97.01440972222221,
-    "score_breakdown": {
-      "recency": 46.01440972222222,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 3,
-      "age_hours": 6.376944444444445
+      "age_hours": 6.194166666666667
     }
   },
   {
@@ -3356,7 +3296,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 0.9741666666666666
+      "age_hours": 1.1466666666666667
     }
   },
   {
@@ -3386,7 +3326,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 0.7358333333333333
+      "age_hours": 0.9083333333333333
     }
   },
   {
@@ -3416,7 +3356,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 2.1577777777777776
+      "age_hours": 2.330277777777778
     }
   },
   {
@@ -3446,7 +3386,67 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 0.4658333333333333
+      "age_hours": 0.6383333333333333
+    }
+  },
+  {
+    "createdAt": "2020-05-18T03:45:11Z",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "forksCount": 17261,
+    "fullName": "ultralytics/yolov5",
+    "language": "Python",
+    "name": "yolov5",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjI2ODMzNDUx",
+      "is_bot": false,
+      "login": "ultralytics",
+      "type": "Organization",
+      "url": "https://github.com/ultralytics"
+    },
+    "pushedAt": "2025-10-29T09:00:04Z",
+    "stargazersCount": 55854,
+    "updatedAt": "2025-10-29T16:37:46Z",
+    "url": "https://github.com/ultralytics/yolov5",
+    "__query": "topic:machine-learning language:python created:>2025-10-28",
+    "score": 96.91840277777777,
+    "score_breakdown": {
+      "recency": 42.91840277777778,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 6,
+      "age_hours": 11.330555555555556
+    }
+  },
+  {
+    "createdAt": "2018-12-08T08:21:47Z",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "forksCount": 8142,
+    "fullName": "fastapi/fastapi",
+    "language": "Python",
+    "name": "fastapi",
+    "owner": {
+      "id": "O_kgDOCVHG-A",
+      "is_bot": false,
+      "login": "fastapi",
+      "type": "Organization",
+      "url": "https://github.com/fastapi"
+    },
+    "pushedAt": "2025-10-29T13:46:56Z",
+    "stargazersCount": 91293,
+    "updatedAt": "2025-10-29T20:06:54Z",
+    "url": "https://github.com/fastapi/fastapi",
+    "__query": "topic:api created:>2025-10-28",
+    "score": 96.90659722222222,
+    "score_breakdown": {
+      "recency": 45.906597222222224,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 3,
+      "age_hours": 6.549444444444444
     }
   },
   {
@@ -3468,15 +3468,15 @@
     "updatedAt": "2025-10-29T19:23:09Z",
     "url": "https://github.com/traefik/traefik",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 96.73472222222222,
+    "score": 96.62690972222222,
     "score_breakdown": {
-      "recency": 45.73472222222222,
+      "recency": 45.62690972222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 6.8244444444444445
+      "age_hours": 6.996944444444445
     }
   },
   {
@@ -3498,45 +3498,15 @@
     "updatedAt": "2025-10-29T20:01:14Z",
     "url": "https://github.com/tracel-ai/burn",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 96.12795138888889,
+    "score": 96.02013888888888,
     "score_breakdown": {
-      "recency": 46.12795138888889,
+      "recency": 46.02013888888889,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 6.195277777777778
-    }
-  },
-  {
-    "createdAt": "2013-06-17T18:39:10Z",
-    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-    "forksCount": 6209,
-    "fullName": "netdata/netdata",
-    "language": "C",
-    "name": "netdata",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjQzMzkwNzgx",
-      "is_bot": false,
-      "login": "netdata",
-      "type": "Organization",
-      "url": "https://github.com/netdata"
-    },
-    "pushedAt": "2025-10-29T12:18:43Z",
-    "stargazersCount": 76521,
-    "updatedAt": "2025-10-29T19:59:52Z",
-    "url": "https://github.com/netdata/netdata",
-    "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 96.09548611111111,
-    "score_breakdown": {
-      "recency": 45.09548611111111,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 3,
-      "age_hours": 7.847222222222222
+      "age_hours": 6.3677777777777775
     }
   },
   {
@@ -3566,7 +3536,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 0.9119444444444444
+      "age_hours": 1.0844444444444445
     }
   },
   {
@@ -3596,7 +3566,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 0.8033333333333333
+      "age_hours": 0.9758333333333333
     }
   },
   {
@@ -3626,7 +3596,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 0.6458333333333334
+      "age_hours": 0.8183333333333334
     }
   },
   {
@@ -3644,8 +3614,8 @@
       "url": "https://github.com/n8n-io"
     },
     "pushedAt": "2025-10-29T19:38:03Z",
-    "stargazersCount": 152648,
-    "updatedAt": "2025-10-29T20:07:54Z",
+    "stargazersCount": 152650,
+    "updatedAt": "2025-10-29T20:18:58Z",
     "url": "https://github.com/n8n-io/n8n",
     "__query": "topic:ai language:python created:>2025-10-28",
     "score": 96,
@@ -3656,7 +3626,37 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 0.525
+      "age_hours": 0.6975
+    }
+  },
+  {
+    "createdAt": "2013-06-17T18:39:10Z",
+    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "forksCount": 6209,
+    "fullName": "netdata/netdata",
+    "language": "C",
+    "name": "netdata",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjQzMzkwNzgx",
+      "is_bot": false,
+      "login": "netdata",
+      "type": "Organization",
+      "url": "https://github.com/netdata"
+    },
+    "pushedAt": "2025-10-29T12:18:43Z",
+    "stargazersCount": 76521,
+    "updatedAt": "2025-10-29T19:59:52Z",
+    "url": "https://github.com/netdata/netdata",
+    "__query": "topic:kubernetes language:go created:>2025-10-28",
+    "score": 95.98767361111112,
+    "score_breakdown": {
+      "recency": 44.98767361111111,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 3,
+      "age_hours": 8.019722222222223
     }
   },
   {
@@ -3678,15 +3678,15 @@
     "updatedAt": "2025-10-29T18:08:41Z",
     "url": "https://github.com/usebruno/bruno",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 95.88125,
+    "score": 95.7734375,
     "score_breakdown": {
-      "recency": 45.881249999999994,
+      "recency": 45.7734375,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 6.59
+      "age_hours": 6.7625
     }
   },
   {
@@ -3708,15 +3708,15 @@
     "updatedAt": "2025-10-29T11:54:08Z",
     "url": "https://github.com/wasmerio/wasmer",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 95.78871527777778,
+    "score": 95.68090277777777,
     "score_breakdown": {
-      "recency": 44.788715277777776,
+      "recency": 44.680902777777774,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 8.338055555555556
+      "age_hours": 8.510555555555555
     }
   },
   {
@@ -3738,15 +3738,15 @@
     "updatedAt": "2025-10-29T19:56:32Z",
     "url": "https://github.com/nextauthjs/next-auth",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 95.58628472222222,
+    "score": 95.47847222222222,
     "score_breakdown": {
-      "recency": 39.58628472222222,
+      "recency": 39.47847222222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 16.661944444444444
+      "age_hours": 16.834444444444443
     }
   },
   {
@@ -3776,7 +3776,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 2.7319444444444443
+      "age_hours": 2.9044444444444446
     }
   },
   {
@@ -3806,7 +3806,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 2.656388888888889
+      "age_hours": 2.828888888888889
     }
   },
   {
@@ -3824,8 +3824,8 @@
       "url": "https://github.com/expo"
     },
     "pushedAt": "2025-10-29T19:46:36Z",
-    "stargazersCount": 44495,
-    "updatedAt": "2025-10-29T18:55:01Z",
+    "stargazersCount": 44496,
+    "updatedAt": "2025-10-29T20:14:38Z",
     "url": "https://github.com/expo/expo",
     "__query": "topic:react language:typescript created:>2025-10-28",
     "score": 95,
@@ -3836,7 +3836,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 0.3825
+      "age_hours": 0.555
     }
   },
   {
@@ -3866,7 +3866,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 0.051944444444444446
+      "age_hours": 0.22444444444444445
     }
   },
   {
@@ -3884,19 +3884,19 @@
       "url": "https://github.com/open-webui"
     },
     "pushedAt": "2025-10-29T00:31:39Z",
-    "stargazersCount": 113694,
-    "updatedAt": "2025-10-29T20:07:45Z",
+    "stargazersCount": 113696,
+    "updatedAt": "2025-10-29T20:16:10Z",
     "url": "https://github.com/open-webui/open-webui",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 94.73020833333334,
+    "score": 94.62239583333334,
     "score_breakdown": {
-      "recency": 37.73020833333333,
+      "recency": 37.622395833333336,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 19.631666666666668
+      "age_hours": 19.804166666666667
     }
   },
   {
@@ -3918,15 +3918,15 @@
     "updatedAt": "2025-10-29T06:46:40Z",
     "url": "https://github.com/compodoc/compodoc",
     "__query": "topic:devtools created:>2025-10-28",
-    "score": 94.69930555555555,
+    "score": 94.59149305555556,
     "score_breakdown": {
-      "recency": 41.699305555555554,
+      "recency": 41.59149305555555,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 13.28111111111111
+      "age_hours": 13.453611111111112
     }
   },
   {
@@ -3948,15 +3948,15 @@
     "updatedAt": "2025-10-28T13:45:38Z",
     "url": "https://github.com/potpie-ai/potpie",
     "__query": "topic:devtools created:>2025-10-28",
-    "score": 94.65989583333334,
+    "score": 94.55208333333333,
     "score_breakdown": {
-      "recency": 42.65989583333333,
+      "recency": 42.55208333333333,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 11.744166666666667
+      "age_hours": 11.916666666666666
     }
   },
   {
@@ -3978,15 +3978,15 @@
     "updatedAt": "2025-10-29T19:51:11Z",
     "url": "https://github.com/deepspeedai/DeepSpeed",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
-    "score": 94.51024305555555,
+    "score": 94.40243055555555,
     "score_breakdown": {
-      "recency": 37.510243055555556,
+      "recency": 37.402430555555554,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 19.98361111111111
+      "age_hours": 20.156111111111112
     }
   },
   {
@@ -4008,15 +4008,15 @@
     "updatedAt": "2025-10-29T18:37:50Z",
     "url": "https://github.com/goharbor/harbor",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 94.41041666666666,
+    "score": 94.30260416666667,
     "score_breakdown": {
-      "recency": 43.41041666666666,
+      "recency": 43.30260416666666,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 10.543333333333333
+      "age_hours": 10.715833333333334
     }
   },
   {
@@ -4038,15 +4038,15 @@
     "updatedAt": "2025-10-28T21:58:42Z",
     "url": "https://github.com/hasura/graphql-engine",
     "__query": "topic:api created:>2025-10-28",
-    "score": 94.08731481481482,
+    "score": 94.02981481481481,
     "score_breakdown": {
-      "recency": 37.08731481481482,
+      "recency": 37.02981481481481,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 32.738055555555555
+      "age_hours": 32.910555555555554
     }
   },
   {
@@ -4064,19 +4064,19 @@
       "url": "https://github.com/raysan5"
     },
     "pushedAt": "2025-10-29T10:33:14Z",
-    "stargazersCount": 29008,
-    "updatedAt": "2025-10-29T19:55:33Z",
+    "stargazersCount": 29009,
+    "updatedAt": "2025-10-29T20:17:44Z",
     "url": "https://github.com/raysan5/raylib",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 93.99670138888888,
+    "score": 93.88888888888889,
     "score_breakdown": {
-      "recency": 43.99670138888889,
+      "recency": 43.888888888888886,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 9.605277777777777
+      "age_hours": 9.777777777777779
     }
   },
   {
@@ -4098,15 +4098,15 @@
     "updatedAt": "2025-10-29T18:04:58Z",
     "url": "https://github.com/facebook/docusaurus",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 93.63138888888889,
+    "score": 93.57388888888889,
     "score_breakdown": {
-      "recency": 38.63138888888889,
+      "recency": 38.57388888888889,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 28.105833333333333
+      "age_hours": 28.278333333333332
     }
   },
   {
@@ -4128,15 +4128,15 @@
     "updatedAt": "2025-10-29T13:47:46Z",
     "url": "https://github.com/PostgREST/postgrest",
     "__query": "topic:api created:>2025-10-28",
-    "score": 93.5125925925926,
+    "score": 93.45509259259259,
     "score_breakdown": {
-      "recency": 38.51259259259259,
+      "recency": 38.45509259259259,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 28.462222222222223
+      "age_hours": 28.634722222222223
     }
   },
   {
@@ -4158,45 +4158,15 @@
     "updatedAt": "2025-10-29T17:57:22Z",
     "url": "https://github.com/apache/hertzbeat",
     "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 93.40086805555555,
+    "score": 93.29305555555555,
     "score_breakdown": {
-      "recency": 41.40086805555555,
+      "recency": 41.293055555555554,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 13.758611111111112
-    }
-  },
-  {
-    "createdAt": "2014-01-31T13:39:22Z",
-    "description": "Vim-fork focused on extensibility and usability",
-    "forksCount": 6376,
-    "fullName": "neovim/neovim",
-    "language": "Vim Script",
-    "name": "neovim",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjY0NzE0ODU=",
-      "is_bot": false,
-      "login": "neovim",
-      "type": "Organization",
-      "url": "https://github.com/neovim"
-    },
-    "pushedAt": "2025-10-29T10:37:14Z",
-    "stargazersCount": 93797,
-    "updatedAt": "2025-10-29T20:03:17Z",
-    "url": "https://github.com/neovim/neovim",
-    "__query": "topic:api created:>2025-10-28",
-    "score": 93.03836805555555,
-    "score_breakdown": {
-      "recency": 44.03836805555555,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 1,
-      "age_hours": 9.538611111111111
+      "age_hours": 13.931111111111111
     }
   },
   {
@@ -4226,7 +4196,7 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 0.5036111111111111
+      "age_hours": 0.6761111111111111
     }
   },
   {
@@ -4256,7 +4226,7 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 2.8333333333333335
+      "age_hours": 3.0058333333333334
     }
   },
   {
@@ -4274,8 +4244,8 @@
       "url": "https://github.com/cli"
     },
     "pushedAt": "2025-10-29T17:30:30Z",
-    "stargazersCount": 41194,
-    "updatedAt": "2025-10-29T19:54:32Z",
+    "stargazersCount": 41195,
+    "updatedAt": "2025-10-29T20:13:42Z",
     "url": "https://github.com/cli/cli",
     "__query": "topic:cli language:rust created:>2025-10-28",
     "score": 93,
@@ -4286,7 +4256,7 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 2.6508333333333334
+      "age_hours": 2.8233333333333333
     }
   },
   {
@@ -4316,7 +4286,37 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 0.5572222222222222
+      "age_hours": 0.7297222222222223
+    }
+  },
+  {
+    "createdAt": "2014-01-31T13:39:22Z",
+    "description": "Vim-fork focused on extensibility and usability",
+    "forksCount": 6376,
+    "fullName": "neovim/neovim",
+    "language": "Vim Script",
+    "name": "neovim",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjY0NzE0ODU=",
+      "is_bot": false,
+      "login": "neovim",
+      "type": "Organization",
+      "url": "https://github.com/neovim"
+    },
+    "pushedAt": "2025-10-29T10:37:14Z",
+    "stargazersCount": 93797,
+    "updatedAt": "2025-10-29T20:03:17Z",
+    "url": "https://github.com/neovim/neovim",
+    "__query": "topic:api created:>2025-10-28",
+    "score": 92.93055555555556,
+    "score_breakdown": {
+      "recency": 43.93055555555556,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 1,
+      "age_hours": 9.71111111111111
     }
   },
   {
@@ -4338,15 +4338,15 @@
     "updatedAt": "2025-10-29T17:17:03Z",
     "url": "https://github.com/tinygo-org/tinygo",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 92.85462962962963,
+    "score": 92.79712962962964,
     "score_breakdown": {
-      "recency": 39.85462962962963,
+      "recency": 39.79712962962963,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 24.43611111111111
+      "age_hours": 24.60861111111111
     }
   },
   {
@@ -4368,45 +4368,15 @@
     "updatedAt": "2025-10-29T18:31:24Z",
     "url": "https://github.com/dokku/dokku",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 92.64861111111111,
+    "score": 92.54079861111111,
     "score_breakdown": {
-      "recency": 45.64861111111111,
+      "recency": 45.540798611111114,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 6.9622222222222225
-    }
-  },
-  {
-    "createdAt": "2020-08-20T17:55:23Z",
-    "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
-    "forksCount": 464,
-    "fullName": "highlight/highlight",
-    "language": "TypeScript",
-    "name": "highlight",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjc1OTQ2ODQy",
-      "is_bot": false,
-      "login": "highlight",
-      "type": "Organization",
-      "url": "https://github.com/highlight"
-    },
-    "pushedAt": "2025-10-28T23:26:22Z",
-    "stargazersCount": 8935,
-    "updatedAt": "2025-10-29T07:26:23Z",
-    "url": "https://github.com/highlight/highlight",
-    "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 92.0501736111111,
-    "score_breakdown": {
-      "recency": 37.050173611111106,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 7,
-      "age_hours": 20.719722222222224
+      "age_hours": 7.134722222222222
     }
   },
   {
@@ -4436,7 +4406,37 @@
       "language": 5,
       "description": 3,
       "random": -6,
-      "age_hours": 0.8222222222222222
+      "age_hours": 0.9947222222222222
+    }
+  },
+  {
+    "createdAt": "2020-08-20T17:55:23Z",
+    "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
+    "forksCount": 464,
+    "fullName": "highlight/highlight",
+    "language": "TypeScript",
+    "name": "highlight",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjc1OTQ2ODQy",
+      "is_bot": false,
+      "login": "highlight",
+      "type": "Organization",
+      "url": "https://github.com/highlight"
+    },
+    "pushedAt": "2025-10-28T23:26:22Z",
+    "stargazersCount": 8935,
+    "updatedAt": "2025-10-29T07:26:23Z",
+    "url": "https://github.com/highlight/highlight",
+    "__query": "topic:observability language:go created:>2025-10-28",
+    "score": 91.94236111111111,
+    "score_breakdown": {
+      "recency": 36.94236111111111,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 7,
+      "age_hours": 20.892222222222223
     }
   },
   {
@@ -4458,15 +4458,15 @@
     "updatedAt": "2025-10-29T17:44:08Z",
     "url": "https://github.com/etcd-io/etcd",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 91.97222222222223,
+    "score": 91.86440972222222,
     "score_breakdown": {
-      "recency": 43.97222222222222,
+      "recency": 43.86440972222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 9.644444444444444
+      "age_hours": 9.816944444444445
     }
   },
   {
@@ -4496,7 +4496,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 0.18694444444444444
+      "age_hours": 0.35944444444444446
     }
   },
   {
@@ -4526,7 +4526,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 0.0575
+      "age_hours": 0.23
     }
   },
   {
@@ -4556,7 +4556,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 3.518611111111111
+      "age_hours": 3.6911111111111112
     }
   },
   {
@@ -4573,7 +4573,7 @@
       "type": "Organization",
       "url": "https://github.com/trufflesecurity"
     },
-    "pushedAt": "2025-10-29T20:08:52Z",
+    "pushedAt": "2025-10-29T20:11:34Z",
     "stargazersCount": 22963,
     "updatedAt": "2025-10-29T19:03:35Z",
     "url": "https://github.com/trufflesecurity/trufflehog",
@@ -4586,7 +4586,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 0.01138888888888889
+      "age_hours": 0.1388888888888889
     }
   },
   {
@@ -4608,15 +4608,15 @@
     "updatedAt": "2025-10-29T19:35:11Z",
     "url": "https://github.com/ajeetdsouza/zoxide",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 90.72527777777778,
+    "score": 90.66777777777779,
     "score_breakdown": {
-      "recency": 36.72527777777778,
+      "recency": 36.66777777777778,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 33.82416666666666
+      "age_hours": 33.99666666666667
     }
   },
   {
@@ -4638,15 +4638,15 @@
     "updatedAt": "2025-10-29T13:59:04Z",
     "url": "https://github.com/dapr/dapr",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 90.56545138888889,
+    "score": 90.45763888888888,
     "score_breakdown": {
-      "recency": 45.56545138888889,
+      "recency": 45.45763888888889,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 7.095277777777778
+      "age_hours": 7.267777777777778
     }
   },
   {
@@ -4668,15 +4668,15 @@
     "updatedAt": "2025-10-29T05:43:31Z",
     "url": "https://github.com/WasmEdge/WasmEdge",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 90.54253472222223,
+    "score": 90.43472222222222,
     "score_breakdown": {
-      "recency": 37.54253472222222,
+      "recency": 37.43472222222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 19.931944444444444
+      "age_hours": 20.104444444444443
     }
   },
   {
@@ -4694,19 +4694,19 @@
       "url": "https://github.com/thanos-io"
     },
     "pushedAt": "2025-10-28T15:25:04Z",
-    "stargazersCount": 13777,
-    "updatedAt": "2025-10-29T14:39:02Z",
+    "stargazersCount": 13778,
+    "updatedAt": "2025-10-29T20:16:36Z",
     "url": "https://github.com/thanos-io/thanos",
     "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 90.41953703703703,
+    "score": 90.36203703703703,
     "score_breakdown": {
-      "recency": 38.41953703703703,
+      "recency": 38.362037037037034,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 28.74138888888889
+      "age_hours": 28.913888888888888
     }
   },
   {
@@ -4724,19 +4724,19 @@
       "url": "https://github.com/sindresorhus"
     },
     "pushedAt": "2025-10-28T17:49:44Z",
-    "stargazersCount": 410361,
-    "updatedAt": "2025-10-29T20:08:28Z",
+    "stargazersCount": 410363,
+    "updatedAt": "2025-10-29T20:14:50Z",
     "url": "https://github.com/sindresorhus/awesome",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 90.22324074074075,
+    "score": 90.16574074074074,
     "score_breakdown": {
-      "recency": 39.22324074074074,
+      "recency": 39.165740740740745,
       "stars": 30,
       "forks": 10,
       "language": 0,
       "description": 3,
       "random": 8,
-      "age_hours": 26.330277777777777
+      "age_hours": 26.502777777777776
     }
   },
   {
@@ -4758,15 +4758,15 @@
     "updatedAt": "2025-10-29T12:01:56Z",
     "url": "https://github.com/hyperledger/fabric",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 90.18777777777778,
+    "score": 90.13027777777778,
     "score_breakdown": {
-      "recency": 36.18777777777778,
+      "recency": 36.13027777777778,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 35.43666666666667
+      "age_hours": 35.60916666666667
     }
   },
   {
@@ -4796,7 +4796,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 4.9775
+      "age_hours": 5.15
     }
   },
   {
@@ -4814,8 +4814,8 @@
       "url": "https://github.com/freeCodeCamp"
     },
     "pushedAt": "2025-10-29T19:59:48Z",
-    "stargazersCount": 430935,
-    "updatedAt": "2025-10-29T20:08:39Z",
+    "stargazersCount": 430936,
+    "updatedAt": "2025-10-29T20:17:39Z",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "__query": "topic:react language:typescript created:>2025-10-28",
     "score": 90,
@@ -4826,7 +4826,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 0.1625
+      "age_hours": 0.335
     }
   },
   {
@@ -4856,37 +4856,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 0.03277777777777778
-    }
-  },
-  {
-    "createdAt": "2018-05-18T23:10:05Z",
-    "description": "Pure Go implementation of the WebRTC API",
-    "forksCount": 1790,
-    "fullName": "pion/webrtc",
-    "language": "Go",
-    "name": "webrtc",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjM4MTkyODky",
-      "is_bot": false,
-      "login": "pion",
-      "type": "Organization",
-      "url": "https://github.com/pion"
-    },
-    "pushedAt": "2025-10-29T08:57:33Z",
-    "stargazersCount": 15544,
-    "updatedAt": "2025-10-29T12:29:31Z",
-    "url": "https://github.com/pion/webrtc",
-    "__query": "topic:wasm created:>2025-10-28",
-    "score": 90,
-    "score_breakdown": {
-      "recency": 43,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": -1,
-      "age_hours": 11.2
+      "age_hours": 0.20527777777777778
     }
   },
   {
@@ -4916,7 +4886,37 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 4.5325
+      "age_hours": 4.705
+    }
+  },
+  {
+    "createdAt": "2018-05-18T23:10:05Z",
+    "description": "Pure Go implementation of the WebRTC API",
+    "forksCount": 1790,
+    "fullName": "pion/webrtc",
+    "language": "Go",
+    "name": "webrtc",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjM4MTkyODky",
+      "is_bot": false,
+      "login": "pion",
+      "type": "Organization",
+      "url": "https://github.com/pion"
+    },
+    "pushedAt": "2025-10-29T08:57:33Z",
+    "stargazersCount": 15544,
+    "updatedAt": "2025-10-29T12:29:31Z",
+    "url": "https://github.com/pion/webrtc",
+    "__query": "topic:wasm created:>2025-10-28",
+    "score": 89.8921875,
+    "score_breakdown": {
+      "recency": 42.8921875,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": -1,
+      "age_hours": 11.3725
     }
   },
   {
@@ -4938,15 +4938,15 @@
     "updatedAt": "2025-10-29T15:39:57Z",
     "url": "https://github.com/k3s-io/k3s",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 89.34375,
+    "score": 89.2359375,
     "score_breakdown": {
-      "recency": 43.34375,
+      "recency": 43.2359375,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 10.65
+      "age_hours": 10.8225
     }
   },
   {
@@ -4968,45 +4968,15 @@
     "updatedAt": "2025-10-29T19:46:45Z",
     "url": "https://github.com/jaywcjlove/awesome-mac",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 89.09916666666666,
+    "score": 89.04166666666667,
     "score_breakdown": {
-      "recency": 31.099166666666665,
+      "recency": 31.04166666666667,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 50.7025
-    }
-  },
-  {
-    "createdAt": "2020-03-03T17:08:26Z",
-    "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
-    "forksCount": 1634,
-    "fullName": "ccfos/nightingale",
-    "language": "Go",
-    "name": "nightingale",
-    "owner": {
-      "id": "O_kgDOBcVCCg",
-      "is_bot": false,
-      "login": "ccfos",
-      "type": "Organization",
-      "url": "https://github.com/ccfos"
-    },
-    "pushedAt": "2025-10-28T08:18:12Z",
-    "stargazersCount": 12567,
-    "updatedAt": "2025-10-29T16:39:31Z",
-    "url": "https://github.com/ccfos/nightingale",
-    "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 89.04805555555555,
-    "score_breakdown": {
-      "recency": 36.04805555555556,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 5,
-      "age_hours": 35.85583333333334
+      "age_hours": 50.875
     }
   },
   {
@@ -5023,7 +4993,7 @@
       "type": "Organization",
       "url": "https://github.com/MetaMask"
     },
-    "pushedAt": "2025-10-29T20:06:01Z",
+    "pushedAt": "2025-10-29T20:18:21Z",
     "stargazersCount": 2663,
     "updatedAt": "2025-10-29T20:02:48Z",
     "url": "https://github.com/MetaMask/metamask-mobile",
@@ -5036,7 +5006,7 @@
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 0.058888888888888886
+      "age_hours": 0.025833333333333333
     }
   },
   {
@@ -5066,13 +5036,13 @@
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 2.8680555555555554
+      "age_hours": 3.0405555555555557
     }
   },
   {
     "createdAt": "2018-10-29T13:56:00Z",
     "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-    "forksCount": 30982,
+    "forksCount": 30983,
     "fullName": "huggingface/transformers",
     "language": "Python",
     "name": "transformers",
@@ -5096,7 +5066,37 @@
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 0.06527777777777778
+      "age_hours": 0.23777777777777778
+    }
+  },
+  {
+    "createdAt": "2020-03-03T17:08:26Z",
+    "description": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+    "forksCount": 1634,
+    "fullName": "ccfos/nightingale",
+    "language": "Go",
+    "name": "nightingale",
+    "owner": {
+      "id": "O_kgDOBcVCCg",
+      "is_bot": false,
+      "login": "ccfos",
+      "type": "Organization",
+      "url": "https://github.com/ccfos"
+    },
+    "pushedAt": "2025-10-28T08:18:12Z",
+    "stargazersCount": 12567,
+    "updatedAt": "2025-10-29T16:39:31Z",
+    "url": "https://github.com/ccfos/nightingale",
+    "__query": "topic:observability language:go created:>2025-10-28",
+    "score": 88.99055555555556,
+    "score_breakdown": {
+      "recency": 35.99055555555556,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 5,
+      "age_hours": 36.028333333333336
     }
   },
   {
@@ -5118,15 +5118,15 @@
     "updatedAt": "2025-10-29T18:19:52Z",
     "url": "https://github.com/pmndrs/zustand",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 88.91961805555556,
+    "score": 88.81180555555557,
     "score_breakdown": {
-      "recency": 38.91961805555555,
+      "recency": 38.81180555555556,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 17.72861111111111
+      "age_hours": 17.90111111111111
     }
   },
   {
@@ -5148,15 +5148,15 @@
     "updatedAt": "2025-10-29T19:22:00Z",
     "url": "https://github.com/onlook-dev/onlook",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 88.76336805555556,
+    "score": 88.65555555555555,
     "score_breakdown": {
-      "recency": 35.76336805555555,
+      "recency": 35.65555555555555,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 22.77861111111111
+      "age_hours": 22.95111111111111
     }
   },
   {
@@ -5178,15 +5178,15 @@
     "updatedAt": "2025-10-29T19:48:51Z",
     "url": "https://github.com/monero-project/monero",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 88.57194444444444,
+    "score": 88.51444444444445,
     "score_breakdown": {
-      "recency": 31.571944444444444,
+      "recency": 31.514444444444443,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 49.284166666666664
+      "age_hours": 49.45666666666666
     }
   },
   {
@@ -5216,7 +5216,7 @@
       "language": 0,
       "description": 3,
       "random": -5,
-      "age_hours": 3.9369444444444444
+      "age_hours": 4.109444444444445
     }
   },
   {
@@ -5233,7 +5233,7 @@
       "type": "Organization",
       "url": "https://github.com/NomicFoundation"
     },
-    "pushedAt": "2025-10-29T18:40:03Z",
+    "pushedAt": "2025-10-29T20:19:00Z",
     "stargazersCount": 8268,
     "updatedAt": "2025-10-29T15:17:01Z",
     "url": "https://github.com/NomicFoundation/hardhat",
@@ -5246,7 +5246,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 1.4916666666666667
+      "age_hours": 0.015
     }
   },
   {
@@ -5276,7 +5276,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 2.698888888888889
+      "age_hours": 2.8713888888888888
     }
   },
   {
@@ -5294,8 +5294,8 @@
       "url": "https://github.com/openobserve"
     },
     "pushedAt": "2025-10-29T17:49:43Z",
-    "stargazersCount": 16995,
-    "updatedAt": "2025-10-29T18:25:34Z",
+    "stargazersCount": 16996,
+    "updatedAt": "2025-10-29T20:12:17Z",
     "url": "https://github.com/openobserve/openobserve",
     "__query": "topic:observability language:go created:>2025-10-28",
     "score": 88,
@@ -5306,7 +5306,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 2.3305555555555557
+      "age_hours": 2.5030555555555556
     }
   },
   {
@@ -5336,7 +5336,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 3.963888888888889
+      "age_hours": 4.136388888888889
     }
   },
   {
@@ -5366,7 +5366,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 4.793333333333333
+      "age_hours": 4.965833333333333
     }
   },
   {
@@ -5384,8 +5384,8 @@
       "url": "https://github.com/tree-sitter"
     },
     "pushedAt": "2025-10-29T14:20:16Z",
-    "stargazersCount": 22533,
-    "updatedAt": "2025-10-29T20:06:57Z",
+    "stargazersCount": 22534,
+    "updatedAt": "2025-10-29T20:17:45Z",
     "url": "https://github.com/tree-sitter/tree-sitter",
     "__query": "topic:wasm created:>2025-10-28",
     "score": 88,
@@ -5396,7 +5396,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 5.8213888888888885
+      "age_hours": 5.993888888888889
     }
   },
   {
@@ -5426,7 +5426,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 3.1755555555555555
+      "age_hours": 3.3480555555555553
     }
   },
   {
@@ -5456,7 +5456,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 4.297777777777778
+      "age_hours": 4.470277777777778
     }
   },
   {
@@ -5478,15 +5478,15 @@
     "updatedAt": "2025-10-29T16:51:16Z",
     "url": "https://github.com/files-community/Files",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 87.39898148148148,
+    "score": 87.34148148148148,
     "score_breakdown": {
-      "recency": 30.398981481481478,
+      "recency": 30.34148148148148,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 52.80305555555555
+      "age_hours": 52.97555555555556
     }
   },
   {
@@ -5504,19 +5504,19 @@
       "url": "https://github.com/yt-dlp"
     },
     "pushedAt": "2025-10-28T15:17:16Z",
-    "stargazersCount": 133114,
-    "updatedAt": "2025-10-29T19:58:44Z",
+    "stargazersCount": 133116,
+    "updatedAt": "2025-10-29T20:18:38Z",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 87.37620370370371,
+    "score": 87.3187037037037,
     "score_breakdown": {
-      "recency": 38.3762037037037,
+      "recency": 38.318703703703704,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 28.871388888888887
+      "age_hours": 29.04388888888889
     }
   },
   {
@@ -5538,15 +5538,15 @@
     "updatedAt": "2025-10-29T10:38:09Z",
     "url": "https://github.com/ethereum/ethereum-org-website",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 87.34722222222223,
+    "score": 87.23940972222222,
     "score_breakdown": {
-      "recency": 43.34722222222222,
+      "recency": 43.23940972222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 10.644444444444444
+      "age_hours": 10.816944444444445
     }
   },
   {
@@ -5568,15 +5568,15 @@
     "updatedAt": "2025-10-29T13:46:35Z",
     "url": "https://github.com/ethers-io/ethers.js",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 86.79490740740741,
+    "score": 86.7374074074074,
     "score_breakdown": {
-      "recency": 31.794907407407408,
+      "recency": 31.737407407407407,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 48.61527777777778
+      "age_hours": 48.78777777777778
     }
   },
   {
@@ -5598,15 +5598,15 @@
     "updatedAt": "2025-10-29T20:03:18Z",
     "url": "https://github.com/hiyouga/LLaMA-Factory",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 86.74435185185186,
+    "score": 86.68685185185186,
     "score_breakdown": {
-      "recency": 29.744351851851853,
+      "recency": 29.686851851851852,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 54.76694444444445
+      "age_hours": 54.93944444444445
     }
   },
   {
@@ -5628,15 +5628,15 @@
     "updatedAt": "2025-10-29T14:40:56Z",
     "url": "https://github.com/jaegertracing/jaeger",
     "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 86.61694444444444,
+    "score": 86.55944444444444,
     "score_breakdown": {
-      "recency": 30.616944444444446,
+      "recency": 30.559444444444445,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 52.149166666666666
+      "age_hours": 52.321666666666665
     }
   },
   {
@@ -5654,49 +5654,19 @@
       "url": "https://github.com/awesome-selfhosted"
     },
     "pushedAt": "2025-10-28T16:27:40Z",
-    "stargazersCount": 255372,
-    "updatedAt": "2025-10-29T20:06:42Z",
+    "stargazersCount": 255373,
+    "updatedAt": "2025-10-29T20:09:55Z",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 85.76731481481482,
+    "score": 85.70981481481482,
     "score_breakdown": {
-      "recency": 38.76731481481482,
+      "recency": 38.70981481481481,
       "stars": 30,
       "forks": 10,
       "language": 0,
       "description": 3,
       "random": 4,
-      "age_hours": 27.698055555555555
-    }
-  },
-  {
-    "createdAt": "2020-02-27T00:22:45Z",
-    "description": "Instant Kubernetes-Native Application Observability",
-    "forksCount": 478,
-    "fullName": "pixie-io/pixie",
-    "language": "C++",
-    "name": "pixie",
-    "owner": {
-      "id": "MDEyOk9yZ2FuaXphdGlvbjgyNjMxNjA5",
-      "is_bot": false,
-      "login": "pixie-io",
-      "type": "Organization",
-      "url": "https://github.com/pixie-io"
-    },
-    "pushedAt": "2025-10-28T21:20:21Z",
-    "stargazersCount": 6206,
-    "updatedAt": "2025-10-29T08:55:04Z",
-    "url": "https://github.com/pixie-io/pixie",
-    "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 85.7375,
-    "score_breakdown": {
-      "recency": 35.7375,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 2,
-      "age_hours": 22.82
+      "age_hours": 27.870555555555555
     }
   },
   {
@@ -5718,15 +5688,45 @@
     "updatedAt": "2025-10-29T17:19:40Z",
     "url": "https://github.com/caddyserver/caddy",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 85.69018518518519,
+    "score": 85.63268518518518,
     "score_breakdown": {
-      "recency": 32.690185185185186,
+      "recency": 32.63268518518518,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 45.92944444444444
+      "age_hours": 46.10194444444444
+    }
+  },
+  {
+    "createdAt": "2020-02-27T00:22:45Z",
+    "description": "Instant Kubernetes-Native Application Observability",
+    "forksCount": 478,
+    "fullName": "pixie-io/pixie",
+    "language": "C++",
+    "name": "pixie",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjgyNjMxNjA5",
+      "is_bot": false,
+      "login": "pixie-io",
+      "type": "Organization",
+      "url": "https://github.com/pixie-io"
+    },
+    "pushedAt": "2025-10-28T21:20:21Z",
+    "stargazersCount": 6206,
+    "updatedAt": "2025-10-29T08:55:04Z",
+    "url": "https://github.com/pixie-io/pixie",
+    "__query": "topic:observability language:go created:>2025-10-28",
+    "score": 85.62968749999999,
+    "score_breakdown": {
+      "recency": 35.629687499999996,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 2,
+      "age_hours": 22.9925
     }
   },
   {
@@ -5744,19 +5744,19 @@
       "url": "https://github.com/keepassxreboot"
     },
     "pushedAt": "2025-10-29T13:49:52Z",
-    "stargazersCount": 24563,
-    "updatedAt": "2025-10-29T19:56:10Z",
+    "stargazersCount": 24564,
+    "updatedAt": "2025-10-29T20:17:02Z",
     "url": "https://github.com/keepassxreboot/keepassxc",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 85.04496527777778,
+    "score": 84.93715277777778,
     "score_breakdown": {
-      "recency": 46.04496527777778,
+      "recency": 45.937152777777776,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 6.328055555555555
+      "age_hours": 6.500555555555556
     }
   },
   {
@@ -5778,15 +5778,15 @@
     "updatedAt": "2025-10-29T19:38:36Z",
     "url": "https://github.com/sxyazi/yazi",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 84.56731481481481,
+    "score": 84.50981481481482,
     "score_breakdown": {
-      "recency": 37.567314814814814,
+      "recency": 37.50981481481482,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 31.298055555555557
+      "age_hours": 31.470555555555556
     }
   },
   {
@@ -5808,15 +5808,15 @@
     "updatedAt": "2025-10-29T09:46:17Z",
     "url": "https://github.com/egametang/ET",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 84.50851851851851,
+    "score": 84.45101851851851,
     "score_breakdown": {
-      "recency": 36.50851851851852,
+      "recency": 36.45101851851852,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 34.474444444444444
+      "age_hours": 34.64694444444444
     }
   },
   {
@@ -5838,15 +5838,15 @@
     "updatedAt": "2025-10-29T17:31:48Z",
     "url": "https://github.com/nginx/nginx",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 84.32240740740741,
+    "score": 84.2649074074074,
     "score_breakdown": {
-      "recency": 37.32240740740741,
+      "recency": 37.26490740740741,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 32.03277777777778
+      "age_hours": 32.20527777777778
     }
   },
   {
@@ -5868,15 +5868,15 @@
     "updatedAt": "2025-10-29T00:03:21Z",
     "url": "https://github.com/trailofbits/algo",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 84.27388888888889,
+    "score": 84.21638888888889,
     "score_breakdown": {
-      "recency": 32.27388888888889,
+      "recency": 32.216388888888886,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 47.178333333333335
+      "age_hours": 47.350833333333334
     }
   },
   {
@@ -5898,15 +5898,15 @@
     "updatedAt": "2025-10-29T12:12:59Z",
     "url": "https://github.com/wevm/viem",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 83.88489583333333,
+    "score": 83.77708333333334,
     "score_breakdown": {
-      "recency": 38.88489583333333,
+      "recency": 38.77708333333333,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 17.784166666666668
+      "age_hours": 17.956666666666667
     }
   },
   {
@@ -5928,15 +5928,15 @@
     "updatedAt": "2025-10-29T18:28:58Z",
     "url": "https://github.com/emilk/egui",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 83.22777777777779,
+    "score": 83.17027777777778,
     "score_breakdown": {
-      "recency": 37.22777777777778,
+      "recency": 37.170277777777784,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 32.31666666666667
+      "age_hours": 32.48916666666667
     }
   },
   {
@@ -5958,15 +5958,15 @@
     "updatedAt": "2025-10-29T15:22:05Z",
     "url": "https://github.com/koalaman/shellcheck",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 83.09361111111112,
+    "score": 83.03611111111111,
     "score_breakdown": {
-      "recency": 28.093611111111116,
+      "recency": 28.03611111111111,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 59.719166666666666
+      "age_hours": 59.891666666666666
     }
   },
   {
@@ -5988,15 +5988,15 @@
     "updatedAt": "2025-10-28T22:17:13Z",
     "url": "https://github.com/wevm/wagmi",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 82.5078125,
+    "score": 82.4,
     "score_breakdown": {
-      "recency": 36.5078125,
+      "recency": 36.4,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 21.5875
+      "age_hours": 21.76
     }
   },
   {
@@ -6018,15 +6018,15 @@
     "updatedAt": "2025-10-29T19:32:37Z",
     "url": "https://github.com/abiosoft/colima",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 82.32898148148148,
+    "score": 82.27148148148149,
     "score_breakdown": {
-      "recency": 31.328981481481478,
+      "recency": 31.27148148148148,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 50.01305555555555
+      "age_hours": 50.18555555555555
     }
   },
   {
@@ -6048,15 +6048,15 @@
     "updatedAt": "2025-10-29T12:44:38Z",
     "url": "https://github.com/pk910/PoWFaucet",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 82.28648148148147,
+    "score": 82.22898148148148,
     "score_breakdown": {
-      "recency": 31.28648148148148,
+      "recency": 31.228981481481483,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 50.14055555555556
+      "age_hours": 50.31305555555556
     }
   },
   {
@@ -6078,15 +6078,15 @@
     "updatedAt": "2025-10-29T16:05:40Z",
     "url": "https://github.com/x64dbg/x64dbg",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 82.25046296296296,
+    "score": 82.19296296296297,
     "score_breakdown": {
-      "recency": 33.25046296296296,
+      "recency": 33.192962962962966,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 44.24861111111111
+      "age_hours": 44.42111111111111
     }
   },
   {
@@ -6108,15 +6108,15 @@
     "updatedAt": "2025-10-29T20:01:01Z",
     "url": "https://github.com/docling-project/docling",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 82.04878472222222,
+    "score": 81.94097222222223,
     "score_breakdown": {
-      "recency": 44.048784722222216,
+      "recency": 43.94097222222222,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 9.521944444444445
+      "age_hours": 9.694444444444445
     }
   },
   {
@@ -6134,19 +6134,19 @@
       "url": "https://github.com/trpc"
     },
     "pushedAt": "2025-10-28T10:41:38Z",
-    "stargazersCount": 38777,
-    "updatedAt": "2025-10-29T20:07:37Z",
+    "stargazersCount": 38778,
+    "updatedAt": "2025-10-29T20:18:13Z",
     "url": "https://github.com/trpc/trpc",
     "__query": "topic:api created:>2025-10-28",
-    "score": 81.8449074074074,
+    "score": 81.78740740740741,
     "score_breakdown": {
-      "recency": 36.844907407407405,
+      "recency": 36.78740740740741,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 33.46527777777778
+      "age_hours": 33.63777777777778
     }
   },
   {
@@ -6168,15 +6168,15 @@
     "updatedAt": "2025-10-29T14:49:38Z",
     "url": "https://github.com/Kong/kong",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 81.63703703703703,
+    "score": 81.57953703703703,
     "score_breakdown": {
-      "recency": 36.63703703703704,
+      "recency": 36.579537037037035,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 34.08888888888889
+      "age_hours": 34.26138888888889
     }
   },
   {
@@ -6198,15 +6198,15 @@
     "updatedAt": "2025-10-29T20:02:17Z",
     "url": "https://github.com/sharkdp/fd",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 81.26861111111111,
+    "score": 81.21111111111111,
     "score_breakdown": {
-      "recency": 35.26861111111111,
+      "recency": 35.21111111111111,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 38.19416666666667
+      "age_hours": 38.36666666666667
     }
   },
   {
@@ -6228,15 +6228,15 @@
     "updatedAt": "2025-10-29T19:28:54Z",
     "url": "https://github.com/wagoodman/dive",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 81.26018518518518,
+    "score": 81.20268518518519,
     "score_breakdown": {
-      "recency": 31.260185185185186,
+      "recency": 31.202685185185185,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 50.21944444444444
+      "age_hours": 50.39194444444445
     }
   },
   {
@@ -6258,15 +6258,15 @@
     "updatedAt": "2025-10-29T15:08:04Z",
     "url": "https://github.com/derailed/k9s",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 81.10611111111112,
+    "score": 81.04861111111111,
     "score_breakdown": {
-      "recency": 33.10611111111111,
+      "recency": 33.048611111111114,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 44.681666666666665
+      "age_hours": 44.854166666666664
     }
   },
   {
@@ -6288,45 +6288,15 @@
     "updatedAt": "2025-10-29T15:32:11Z",
     "url": "https://github.com/refinedev/refine",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 80.9962962962963,
+    "score": 80.93879629629629,
     "score_breakdown": {
-      "recency": 28.996296296296297,
+      "recency": 28.938796296296296,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 57.01111111111111
-    }
-  },
-  {
-    "createdAt": "2022-02-21T04:55:20Z",
-    "description": "PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2",
-    "forksCount": 1485,
-    "fullName": "pyscript/pyscript",
-    "language": "Python",
-    "name": "pyscript",
-    "owner": {
-      "id": "O_kgDOBf5SQQ",
-      "is_bot": false,
-      "login": "pyscript",
-      "type": "Organization",
-      "url": "https://github.com/pyscript"
-    },
-    "pushedAt": "2025-10-27T07:25:57Z",
-    "stargazersCount": 18625,
-    "updatedAt": "2025-10-29T20:00:06Z",
-    "url": "https://github.com/pyscript/pyscript",
-    "__query": "topic:wasm created:>2025-10-28",
-    "score": 80.75777777777778,
-    "score_breakdown": {
-      "recency": 27.75777777777778,
-      "stars": 30,
-      "forks": 10,
-      "language": 5,
-      "description": 3,
-      "random": 5,
-      "age_hours": 60.72666666666667
+      "age_hours": 57.18361111111111
     }
   },
   {
@@ -6348,15 +6318,45 @@
     "updatedAt": "2025-10-29T16:08:23Z",
     "url": "https://github.com/gitroomhq/postiz-app",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 80.75446428571429,
+    "score": 80.72879464285714,
     "score_breakdown": {
-      "recency": 24.75446428571429,
+      "recency": 24.728794642857142,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 73.65
+      "age_hours": 73.8225
+    }
+  },
+  {
+    "createdAt": "2022-02-21T04:55:20Z",
+    "description": "PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2",
+    "forksCount": 1485,
+    "fullName": "pyscript/pyscript",
+    "language": "Python",
+    "name": "pyscript",
+    "owner": {
+      "id": "O_kgDOBf5SQQ",
+      "is_bot": false,
+      "login": "pyscript",
+      "type": "Organization",
+      "url": "https://github.com/pyscript"
+    },
+    "pushedAt": "2025-10-27T07:25:57Z",
+    "stargazersCount": 18625,
+    "updatedAt": "2025-10-29T20:00:06Z",
+    "url": "https://github.com/pyscript/pyscript",
+    "__query": "topic:wasm created:>2025-10-28",
+    "score": 80.70027777777779,
+    "score_breakdown": {
+      "recency": 27.700277777777778,
+      "stars": 30,
+      "forks": 10,
+      "language": 5,
+      "description": 3,
+      "random": 5,
+      "age_hours": 60.899166666666666
     }
   },
   {
@@ -6378,15 +6378,15 @@
     "updatedAt": "2025-10-29T17:27:35Z",
     "url": "https://github.com/typescript-cheatsheets/react",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 80.64546296296297,
+    "score": 80.58796296296296,
     "score_breakdown": {
-      "recency": 37.64546296296296,
+      "recency": 37.58796296296296,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 31.06361111111111
+      "age_hours": 31.23611111111111
     }
   },
   {
@@ -6408,15 +6408,15 @@
     "updatedAt": "2025-10-29T20:05:41Z",
     "url": "https://github.com/sherlock-project/sherlock",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 80.6157986111111,
+    "score": 80.50798611111111,
     "score_breakdown": {
-      "recency": 40.61579861111111,
+      "recency": 40.50798611111111,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 15.014722222222222
+      "age_hours": 15.187222222222223
     }
   },
   {
@@ -6438,15 +6438,15 @@
     "updatedAt": "2025-10-29T19:36:19Z",
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 80.51979166666666,
+    "score": 80.41197916666667,
     "score_breakdown": {
-      "recency": 37.51979166666666,
+      "recency": 37.41197916666666,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 19.968333333333334
+      "age_hours": 20.140833333333333
     }
   },
   {
@@ -6468,15 +6468,15 @@
     "updatedAt": "2025-10-29T19:17:10Z",
     "url": "https://github.com/rust-unofficial/awesome-rust",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 80.22518518518518,
+    "score": 80.16768518518518,
     "score_breakdown": {
-      "recency": 37.22518518518519,
+      "recency": 37.167685185185185,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 32.324444444444445
+      "age_hours": 32.496944444444445
     }
   },
   {
@@ -6498,45 +6498,15 @@
     "updatedAt": "2025-10-29T19:22:27Z",
     "url": "https://github.com/encode/django-rest-framework",
     "__query": "topic:api created:>2025-10-28",
-    "score": 78.87740740740742,
+    "score": 78.81990740740741,
     "score_breakdown": {
-      "recency": 35.87740740740741,
+      "recency": 35.81990740740741,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 36.367777777777775
-    }
-  },
-  {
-    "createdAt": "2014-07-11T13:35:34Z",
-    "description": ":zap: Delightful Node.js packages and resources",
-    "forksCount": 6089,
-    "fullName": "sindresorhus/awesome-nodejs",
-    "language": "",
-    "name": "awesome-nodejs",
-    "owner": {
-      "id": "MDQ6VXNlcjE3MDI3MA==",
-      "is_bot": false,
-      "login": "sindresorhus",
-      "type": "User",
-      "url": "https://github.com/sindresorhus"
-    },
-    "pushedAt": "2025-10-29T06:56:58Z",
-    "stargazersCount": 63398,
-    "updatedAt": "2025-10-29T19:46:32Z",
-    "url": "https://github.com/sindresorhus/awesome-nodejs",
-    "__query": "topic:awesome created:>2025-10-28",
-    "score": 78.74392361111111,
-    "score_breakdown": {
-      "recency": 41.743923611111114,
-      "stars": 30,
-      "forks": 10,
-      "language": 0,
-      "description": 3,
-      "random": -6,
-      "age_hours": 13.209722222222222
+      "age_hours": 36.540277777777774
     }
   },
   {
@@ -6558,15 +6528,45 @@
     "updatedAt": "2025-10-29T16:39:50Z",
     "url": "https://github.com/DevToys-app/DevToys",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 78.71308697089947,
+    "score": 78.68741732804233,
     "score_breakdown": {
-      "recency": 23.71308697089947,
+      "recency": 23.68741732804233,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 80.64805555555556
+      "age_hours": 80.82055555555556
+    }
+  },
+  {
+    "createdAt": "2014-07-11T13:35:34Z",
+    "description": ":zap: Delightful Node.js packages and resources",
+    "forksCount": 6089,
+    "fullName": "sindresorhus/awesome-nodejs",
+    "language": "",
+    "name": "awesome-nodejs",
+    "owner": {
+      "id": "MDQ6VXNlcjE3MDI3MA==",
+      "is_bot": false,
+      "login": "sindresorhus",
+      "type": "User",
+      "url": "https://github.com/sindresorhus"
+    },
+    "pushedAt": "2025-10-29T06:56:58Z",
+    "stargazersCount": 63398,
+    "updatedAt": "2025-10-29T19:46:32Z",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "__query": "topic:awesome created:>2025-10-28",
+    "score": 78.6361111111111,
+    "score_breakdown": {
+      "recency": 41.636111111111106,
+      "stars": 30,
+      "forks": 10,
+      "language": 0,
+      "description": 3,
+      "random": -6,
+      "age_hours": 13.382222222222222
     }
   },
   {
@@ -6588,15 +6588,15 @@
     "updatedAt": "2025-10-29T20:08:20Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 78.38944444444445,
+    "score": 78.33194444444445,
     "score_breakdown": {
-      "recency": 26.389444444444443,
+      "recency": 26.331944444444446,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 64.83166666666666
+      "age_hours": 65.00416666666666
     }
   },
   {
@@ -6618,15 +6618,15 @@
     "updatedAt": "2025-10-29T05:07:16Z",
     "url": "https://github.com/AssemblyScript/assemblyscript",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 78.20833333333334,
+    "score": 78.15083333333334,
     "score_breakdown": {
-      "recency": 34.208333333333336,
+      "recency": 34.15083333333334,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 41.375
+      "age_hours": 41.5475
     }
   },
   {
@@ -6648,15 +6648,15 @@
     "updatedAt": "2025-10-29T17:01:50Z",
     "url": "https://github.com/coroot/coroot",
     "__query": "topic:observability language:go created:>2025-10-28",
-    "score": 78.0649074074074,
+    "score": 78.00740740740741,
     "score_breakdown": {
-      "recency": 29.064907407407404,
+      "recency": 29.007407407407406,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 56.805277777777775
+      "age_hours": 56.977777777777774
     }
   },
   {
@@ -6678,15 +6678,15 @@
     "updatedAt": "2025-10-29T17:12:25Z",
     "url": "https://github.com/gmh5225/awesome-game-security",
     "__query": "topic:web3 language:rust created:>2025-10-28",
-    "score": 77.62324074074074,
+    "score": 77.56574074074075,
     "score_breakdown": {
-      "recency": 33.62324074074074,
+      "recency": 33.56574074074074,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 43.13027777777778
+      "age_hours": 43.30277777777778
     }
   },
   {
@@ -6708,15 +6708,15 @@
     "updatedAt": "2025-10-29T19:30:21Z",
     "url": "https://github.com/punkpeye/awesome-mcp-servers",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 77.17083333333333,
+    "score": 77.06302083333333,
     "score_breakdown": {
-      "recency": 39.170833333333334,
+      "recency": 39.063020833333326,
       "stars": 30,
       "forks": 10,
       "language": 0,
       "description": 3,
       "random": -5,
-      "age_hours": 17.326666666666668
+      "age_hours": 17.499166666666667
     }
   },
   {
@@ -6734,19 +6734,19 @@
       "url": "https://github.com/rasbt"
     },
     "pushedAt": "2025-10-29T01:36:22Z",
-    "stargazersCount": 77075,
-    "updatedAt": "2025-10-29T19:56:21Z",
+    "stargazersCount": 77076,
+    "updatedAt": "2025-10-29T20:13:25Z",
     "url": "https://github.com/rasbt/LLMs-from-scratch",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 76.40434027777778,
+    "score": 76.29652777777778,
     "score_breakdown": {
-      "recency": 38.40434027777778,
+      "recency": 38.296527777777776,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 18.553055555555556
+      "age_hours": 18.725555555555555
     }
   },
   {
@@ -6768,15 +6768,15 @@
     "updatedAt": "2025-10-29T20:06:10Z",
     "url": "https://github.com/charmbracelet/bubbletea",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 75.89231481481481,
+    "score": 75.83481481481482,
     "score_breakdown": {
-      "recency": 37.89231481481481,
+      "recency": 37.83481481481481,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 30.323055555555555
+      "age_hours": 30.495555555555555
     }
   },
   {
@@ -6798,15 +6798,15 @@
     "updatedAt": "2025-10-29T19:06:50Z",
     "url": "https://github.com/vadimdemedes/ink",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 75.1939484126984,
+    "score": 75.16827876984127,
     "score_breakdown": {
-      "recency": 23.19394841269841,
+      "recency": 23.16827876984127,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 84.13666666666667
+      "age_hours": 84.30916666666667
     }
   },
   {
@@ -6828,15 +6828,15 @@
     "updatedAt": "2025-10-29T20:07:54Z",
     "url": "https://github.com/StevenBlack/hosts",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 75.17402447089947,
+    "score": 75.14835482804233,
     "score_breakdown": {
-      "recency": 22.17402447089947,
+      "recency": 22.14835482804233,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 90.99055555555556
+      "age_hours": 91.16305555555556
     }
   },
   {
@@ -6858,15 +6858,15 @@
     "updatedAt": "2025-10-29T18:33:46Z",
     "url": "https://github.com/hacksider/Deep-Live-Cam",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 75.03990740740741,
+    "score": 74.98240740740741,
     "score_breakdown": {
-      "recency": 37.03990740740741,
+      "recency": 36.98240740740741,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 32.88027777777778
+      "age_hours": 33.05277777777778
     }
   },
   {
@@ -6888,15 +6888,15 @@
     "updatedAt": "2025-10-29T18:31:21Z",
     "url": "https://github.com/Dokploy/dokploy",
     "__query": "topic:nextjs language:typescript created:>2025-10-28",
-    "score": 74.25024801587301,
+    "score": 74.22457837301587,
     "score_breakdown": {
-      "recency": 23.250248015873016,
+      "recency": 23.224578373015873,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 83.75833333333334
+      "age_hours": 83.93083333333334
     }
   },
   {
@@ -6918,15 +6918,15 @@
     "updatedAt": "2025-10-29T20:03:49Z",
     "url": "https://github.com/minio/minio",
     "__query": "topic:kubernetes language:go created:>2025-10-28",
-    "score": 73.21148148148148,
+    "score": 73.15398148148148,
     "score_breakdown": {
-      "recency": 26.21148148148148,
+      "recency": 26.15398148148148,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 65.36555555555556
+      "age_hours": 65.53805555555556
     }
   },
   {
@@ -6948,15 +6948,15 @@
     "updatedAt": "2025-10-29T20:05:26Z",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 72.36037037037036,
+    "score": 72.30287037037037,
     "score_breakdown": {
-      "recency": 33.36037037037037,
+      "recency": 33.30287037037037,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 43.91888888888889
+      "age_hours": 44.091388888888886
     }
   },
   {
@@ -6978,15 +6978,15 @@
     "updatedAt": "2025-10-29T19:47:22Z",
     "url": "https://github.com/akullpp/awesome-java",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 71.99450231481481,
+    "score": 71.96883267195767,
     "score_breakdown": {
-      "recency": 20.994502314814813,
+      "recency": 20.96883267195767,
       "stars": 30,
       "forks": 10,
       "language": 0,
       "description": 3,
       "random": 8,
-      "age_hours": 98.91694444444444
+      "age_hours": 99.08944444444444
     }
   },
   {
@@ -7008,15 +7008,15 @@
     "updatedAt": "2025-10-28T23:09:56Z",
     "url": "https://github.com/FuelLabs/fuel-core",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 71.37078373015873,
+    "score": 71.3451140873016,
     "score_breakdown": {
-      "recency": 17.370783730158728,
+      "recency": 17.34511408730159,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 123.26833333333333
+      "age_hours": 123.44083333333333
     }
   },
   {
@@ -7038,21 +7038,21 @@
     "updatedAt": "2025-10-29T12:42:22Z",
     "url": "https://github.com/heyverse/hey",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 71.24156746031747,
+    "score": 71.21589781746032,
     "score_breakdown": {
-      "recency": 23.241567460317462,
+      "recency": 23.215897817460316,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 83.81666666666666
+      "age_hours": 83.98916666666666
     }
   },
   {
     "createdAt": "2013-10-23T16:04:23Z",
     "description": ":cherry_blossom: A command-line fuzzy finder",
-    "forksCount": 2604,
+    "forksCount": 2605,
     "fullName": "junegunn/fzf",
     "language": "Go",
     "name": "fzf",
@@ -7068,15 +7068,15 @@
     "updatedAt": "2025-10-29T20:04:54Z",
     "url": "https://github.com/junegunn/fzf",
     "__query": "topic:cli language:rust created:>2025-10-28",
-    "score": 70.92724867724868,
+    "score": 70.90157903439153,
     "score_breakdown": {
-      "recency": 22.927248677248677,
+      "recency": 22.901579034391535,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 85.92888888888889
+      "age_hours": 86.10138888888889
     }
   },
   {
@@ -7098,15 +7098,15 @@
     "updatedAt": "2025-10-29T18:39:37Z",
     "url": "https://github.com/gitleaks/gitleaks",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 70.46279761904762,
+    "score": 70.43712797619048,
     "score_breakdown": {
-      "recency": 17.46279761904762,
+      "recency": 17.437127976190478,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 122.65
+      "age_hours": 122.8225
     }
   },
   {
@@ -7128,15 +7128,15 @@
     "updatedAt": "2025-10-29T15:55:31Z",
     "url": "https://github.com/OWASP/CheatSheetSeries",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 70.34821428571428,
+    "score": 70.32254464285714,
     "score_breakdown": {
-      "recency": 12.348214285714285,
+      "recency": 12.322544642857142,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 157.02
+      "age_hours": 157.1925
     }
   },
   {
@@ -7158,15 +7158,15 @@
     "updatedAt": "2025-10-29T19:50:14Z",
     "url": "https://github.com/leaningtech/webvm",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 70.00181878306879,
+    "score": 69.97614914021165,
     "score_breakdown": {
-      "recency": 17.001818783068785,
+      "recency": 16.976149140211643,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 125.74777777777778
+      "age_hours": 125.92027777777778
     }
   },
   {
@@ -7196,7 +7196,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 1158.4619444444445
+      "age_hours": 1158.6344444444444
     }
   },
   {
@@ -7226,7 +7226,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 529.0444444444445
+      "age_hours": 529.2169444444445
     }
   },
   {
@@ -7256,7 +7256,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 704.2597222222222
+      "age_hours": 704.4322222222222
     }
   },
   {
@@ -7286,7 +7286,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 210.34194444444444
+      "age_hours": 210.51444444444445
     }
   },
   {
@@ -7316,7 +7316,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 445.9033333333333
+      "age_hours": 446.0758333333333
     }
   },
   {
@@ -7346,7 +7346,7 @@
       "language": 5,
       "description": 3,
       "random": 10,
-      "age_hours": 10477.2775
+      "age_hours": 10477.45
     }
   },
   {
@@ -7368,15 +7368,15 @@
     "updatedAt": "2025-10-29T16:57:35Z",
     "url": "https://github.com/deepfakes/faceswap",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
-    "score": 67.8630539021164,
+    "score": 67.83738425925927,
     "score_breakdown": {
-      "recency": 13.863053902116402,
+      "recency": 13.837384259259261,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 146.84027777777777
+      "age_hours": 147.01277777777779
     }
   },
   {
@@ -7398,15 +7398,15 @@
     "updatedAt": "2025-10-29T18:39:59Z",
     "url": "https://github.com/ChatGPTNextWeb/NextChat",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 67.6387037037037,
+    "score": 67.58120370370371,
     "score_breakdown": {
-      "recency": 29.638703703703705,
+      "recency": 29.581203703703704,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 55.083888888888886
+      "age_hours": 55.256388888888885
     }
   },
   {
@@ -7428,15 +7428,15 @@
     "updatedAt": "2025-10-29T18:42:55Z",
     "url": "https://github.com/pathwaycom/llm-app",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
-    "score": 67.57783564814815,
+    "score": 67.55216600529101,
     "score_breakdown": {
-      "recency": 13.57783564814815,
+      "recency": 13.552166005291005,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 148.75694444444446
+      "age_hours": 148.92944444444444
     }
   },
   {
@@ -7466,7 +7466,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 563.3147222222223
+      "age_hours": 563.4872222222223
     }
   },
   {
@@ -7496,7 +7496,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 227.65194444444444
+      "age_hours": 227.82444444444445
     }
   },
   {
@@ -7526,7 +7526,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 995.9013888888888
+      "age_hours": 996.0738888888889
     }
   },
   {
@@ -7556,7 +7556,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 311.3625
+      "age_hours": 311.535
     }
   },
   {
@@ -7586,7 +7586,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 1243.2513888888889
+      "age_hours": 1243.423888888889
     }
   },
   {
@@ -7616,7 +7616,7 @@
       "language": 5,
       "description": 3,
       "random": 9,
-      "age_hours": 7384.34
+      "age_hours": 7384.5125
     }
   },
   {
@@ -7646,7 +7646,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 30061.099444444444
+      "age_hours": 30061.271944444445
     }
   },
   {
@@ -7676,7 +7676,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 11433.46611111111
+      "age_hours": 11433.638611111111
     }
   },
   {
@@ -7706,7 +7706,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 11933.703055555556
+      "age_hours": 11933.875555555556
     }
   },
   {
@@ -7736,7 +7736,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 18300.37638888889
+      "age_hours": 18300.54888888889
     }
   },
   {
@@ -7766,7 +7766,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 18359.634166666667
+      "age_hours": 18359.806666666667
     }
   },
   {
@@ -7796,7 +7796,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 2473.9619444444443
+      "age_hours": 2474.1344444444444
     }
   },
   {
@@ -7826,7 +7826,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 433.96777777777777
+      "age_hours": 434.1402777777778
     }
   },
   {
@@ -7856,7 +7856,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 524.1669444444444
+      "age_hours": 524.3394444444444
     }
   },
   {
@@ -7886,7 +7886,7 @@
       "language": 5,
       "description": 3,
       "random": 8,
-      "age_hours": 318.4763888888889
+      "age_hours": 318.6488888888889
     }
   },
   {
@@ -7908,15 +7908,15 @@
     "updatedAt": "2025-10-29T16:37:29Z",
     "url": "https://github.com/gatsbyjs/gatsby",
     "__query": "topic:react language:typescript created:>2025-10-28",
-    "score": 65.58407738095238,
+    "score": 65.55840773809524,
     "score_breakdown": {
-      "recency": 14.584077380952381,
+      "recency": 14.558407738095235,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 141.995
+      "age_hours": 142.1675
     }
   },
   {
@@ -7946,7 +7946,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 186.92805555555555
+      "age_hours": 187.10055555555556
     }
   },
   {
@@ -7976,7 +7976,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 1084.5747222222221
+      "age_hours": 1084.7472222222223
     }
   },
   {
@@ -8006,7 +8006,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 629.6422222222222
+      "age_hours": 629.8147222222223
     }
   },
   {
@@ -8036,7 +8036,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 4112.310277777778
+      "age_hours": 4112.482777777778
     }
   },
   {
@@ -8066,7 +8066,7 @@
       "language": 5,
       "description": 3,
       "random": 7,
-      "age_hours": 299.13
+      "age_hours": 299.3025
     }
   },
   {
@@ -8084,19 +8084,19 @@
       "url": "https://github.com/github"
     },
     "pushedAt": "2025-10-23T17:12:11Z",
-    "stargazersCount": 43279,
-    "updatedAt": "2025-10-29T20:06:36Z",
+    "stargazersCount": 43281,
+    "updatedAt": "2025-10-29T20:16:00Z",
     "url": "https://github.com/github/spec-kit",
     "__query": "topic:ai language:python created:>2025-10-28",
-    "score": 64.8458167989418,
+    "score": 64.82014715608466,
     "score_breakdown": {
-      "recency": 13.8458167989418,
+      "recency": 13.820147156084655,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 146.9561111111111
+      "age_hours": 147.1286111111111
     }
   },
   {
@@ -8118,15 +8118,15 @@
     "updatedAt": "2025-10-29T17:47:42Z",
     "url": "https://github.com/osquery/osquery",
     "__query": "topic:security language:go created:>2025-10-28",
-    "score": 64.69684193121694,
+    "score": 64.6711722883598,
     "score_breakdown": {
-      "recency": 13.69684193121693,
+      "recency": 13.67117228835979,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 147.9572222222222
+      "age_hours": 148.12972222222223
     }
   },
   {
@@ -8148,15 +8148,15 @@
     "updatedAt": "2025-10-29T19:40:10Z",
     "url": "https://github.com/dkhamsing/open-source-ios-apps",
     "__query": "topic:awesome created:>2025-10-28",
-    "score": 64.15529927248677,
+    "score": 64.12962962962963,
     "score_breakdown": {
-      "recency": 24.155299272486772,
+      "recency": 24.12962962962963,
       "stars": 30,
       "forks": 10,
       "language": 0,
       "description": 3,
       "random": -3,
-      "age_hours": 77.6763888888889
+      "age_hours": 77.8488888888889
     }
   },
   {
@@ -8186,7 +8186,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 175.11388888888888
+      "age_hours": 175.2863888888889
     }
   },
   {
@@ -8216,7 +8216,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 10442.374166666666
+      "age_hours": 10442.546666666667
     }
   },
   {
@@ -8246,7 +8246,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 23237.073055555556
+      "age_hours": 23237.245555555557
     }
   },
   {
@@ -8276,7 +8276,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 683.6191666666666
+      "age_hours": 683.7916666666666
     }
   },
   {
@@ -8306,7 +8306,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 6720.4608333333335
+      "age_hours": 6720.633333333333
     }
   },
   {
@@ -8336,7 +8336,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 10590.820833333333
+      "age_hours": 10590.993333333334
     }
   },
   {
@@ -8366,7 +8366,7 @@
       "language": 5,
       "description": 3,
       "random": 6,
-      "age_hours": 722.5638888888889
+      "age_hours": 722.7363888888889
     }
   },
   {
@@ -8388,15 +8388,15 @@
     "updatedAt": "2025-10-29T19:17:04Z",
     "url": "https://github.com/yewstack/yew",
     "__query": "topic:wasm created:>2025-10-28",
-    "score": 63.31481481481482,
+    "score": 63.28914517195767,
     "score_breakdown": {
-      "recency": 15.314814814814815,
+      "recency": 15.28914517195767,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 137.08444444444444
+      "age_hours": 137.25694444444446
     }
   },
   {
@@ -8418,15 +8418,15 @@
     "updatedAt": "2025-10-29T14:08:47Z",
     "url": "https://github.com/TabbyML/tabby",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 63.271288029100525,
+    "score": 63.245618386243386,
     "score_breakdown": {
-      "recency": 14.271288029100527,
+      "recency": 14.245618386243386,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 144.09694444444443
+      "age_hours": 144.26944444444445
     }
   },
   {
@@ -8456,7 +8456,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 2095.0172222222222
+      "age_hours": 2095.1897222222224
     }
   },
   {
@@ -8486,7 +8486,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 19670.123055555556
+      "age_hours": 19670.295555555556
     }
   },
   {
@@ -8516,7 +8516,7 @@
       "language": 0,
       "description": 3,
       "random": 10,
-      "age_hours": 10447.880555555555
+      "age_hours": 10448.053055555556
     }
   },
   {
@@ -8546,7 +8546,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 9633.6425
+      "age_hours": 9633.815
     }
   },
   {
@@ -8576,7 +8576,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 519.1877777777778
+      "age_hours": 519.3602777777778
     }
   },
   {
@@ -8606,7 +8606,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 1809.3627777777779
+      "age_hours": 1809.5352777777778
     }
   },
   {
@@ -8636,7 +8636,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 24608.633055555554
+      "age_hours": 24608.805555555555
     }
   },
   {
@@ -8666,7 +8666,7 @@
       "language": 5,
       "description": 3,
       "random": 5,
-      "age_hours": 1065.4286111111112
+      "age_hours": 1065.601111111111
     }
   },
   {
@@ -8696,7 +8696,7 @@
       "language": 0,
       "description": 3,
       "random": 9,
-      "age_hours": 1493.4783333333332
+      "age_hours": 1493.6508333333334
     }
   },
   {
@@ -8726,7 +8726,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 12543.359444444444
+      "age_hours": 12543.531944444445
     }
   },
   {
@@ -8756,7 +8756,7 @@
       "language": 5,
       "description": 3,
       "random": 4,
-      "age_hours": 666.2330555555556
+      "age_hours": 666.4055555555556
     }
   },
   {
@@ -8778,15 +8778,15 @@
     "updatedAt": "2025-10-29T15:20:23Z",
     "url": "https://github.com/AmazingAng/WTF-Solidity",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 61.907407407407405,
+    "score": 61.881737764550266,
     "score_breakdown": {
-      "recency": 23.90740740740741,
+      "recency": 23.881737764550266,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 79.34222222222222
+      "age_hours": 79.51472222222222
     }
   },
   {
@@ -8804,8 +8804,8 @@
       "url": "https://github.com/AUTOMATIC1111"
     },
     "pushedAt": "2025-10-07T20:06:10Z",
-    "stargazersCount": 157678,
-    "updatedAt": "2025-10-29T19:58:45Z",
+    "stargazersCount": 157679,
+    "updatedAt": "2025-10-29T20:10:08Z",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "__query": "topic:ai language:python created:>2025-10-28",
     "score": 61,
@@ -8816,7 +8816,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 528.0563888888889
+      "age_hours": 528.2288888888888
     }
   },
   {
@@ -8846,7 +8846,7 @@
       "language": 0,
       "description": 3,
       "random": 8,
-      "age_hours": 1453.3947222222223
+      "age_hours": 1453.5672222222222
     }
   },
   {
@@ -8876,7 +8876,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 1689.6138888888888
+      "age_hours": 1689.786388888889
     }
   },
   {
@@ -8906,7 +8906,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 1982.9075
+      "age_hours": 1983.08
     }
   },
   {
@@ -8936,7 +8936,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 2900.0025
+      "age_hours": 2900.175
     }
   },
   {
@@ -8966,7 +8966,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 2966.3263888888887
+      "age_hours": 2966.498888888889
     }
   },
   {
@@ -8996,7 +8996,7 @@
       "language": 5,
       "description": 3,
       "random": 3,
-      "age_hours": 841.0580555555556
+      "age_hours": 841.2305555555556
     }
   },
   {
@@ -9018,15 +9018,15 @@
     "updatedAt": "2025-10-29T10:09:39Z",
     "url": "https://github.com/diem/diem",
     "__query": "topic:blockchain created:>2025-10-28",
-    "score": 60.6047867063492,
+    "score": 60.57911706349206,
     "score_breakdown": {
-      "recency": 15.604786706349206,
+      "recency": 15.579117063492065,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 135.13583333333332
+      "age_hours": 135.30833333333334
     }
   },
   {
@@ -9044,8 +9044,8 @@
       "url": "https://github.com/Aider-AI"
     },
     "pushedAt": "2025-10-05T19:11:17Z",
-    "stargazersCount": 38105,
-    "updatedAt": "2025-10-29T18:42:23Z",
+    "stargazersCount": 38106,
+    "updatedAt": "2025-10-29T20:18:00Z",
     "url": "https://github.com/Aider-AI/aider",
     "__query": "topic:cli language:rust created:>2025-10-28",
     "score": 60,
@@ -9056,7 +9056,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 576.9711111111111
+      "age_hours": 577.1436111111111
     }
   },
   {
@@ -9086,7 +9086,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 433.31166666666667
+      "age_hours": 433.4841666666667
     }
   },
   {
@@ -9116,7 +9116,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 11158.575277777778
+      "age_hours": 11158.747777777779
     }
   },
   {
@@ -9146,7 +9146,7 @@
       "language": 0,
       "description": 3,
       "random": 7,
-      "age_hours": 683.7847222222222
+      "age_hours": 683.9572222222222
     }
   },
   {
@@ -9176,7 +9176,7 @@
       "language": 0,
       "description": 3,
       "random": 7,
-      "age_hours": 273.68694444444446
+      "age_hours": 273.8594444444444
     }
   },
   {
@@ -9206,7 +9206,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 2146.5841666666665
+      "age_hours": 2146.7566666666667
     }
   },
   {
@@ -9236,7 +9236,7 @@
       "language": 0,
       "description": 3,
       "random": 7,
-      "age_hours": 3532.0027777777777
+      "age_hours": 3532.175277777778
     }
   },
   {
@@ -9266,7 +9266,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 362.2013888888889
+      "age_hours": 362.37388888888887
     }
   },
   {
@@ -9296,7 +9296,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 17691.759444444444
+      "age_hours": 17691.931944444445
     }
   },
   {
@@ -9326,7 +9326,7 @@
       "language": 5,
       "description": 3,
       "random": 2,
-      "age_hours": 17337.07611111111
+      "age_hours": 17337.24861111111
     }
   },
   {
@@ -9356,7 +9356,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 1219.9352777777779
+      "age_hours": 1220.1077777777778
     }
   },
   {
@@ -9386,7 +9386,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 2695.2361111111113
+      "age_hours": 2695.408611111111
     }
   },
   {
@@ -9416,7 +9416,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 2767.333888888889
+      "age_hours": 2767.506388888889
     }
   },
   {
@@ -9446,7 +9446,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 190.86805555555554
+      "age_hours": 191.04055555555556
     }
   },
   {
@@ -9476,7 +9476,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 10954.620555555555
+      "age_hours": 10954.793055555556
     }
   },
   {
@@ -9506,7 +9506,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 46254.16916666667
+      "age_hours": 46254.34166666667
     }
   },
   {
@@ -9525,7 +9525,7 @@
     },
     "pushedAt": "2024-08-29T17:58:11Z",
     "stargazersCount": 54194,
-    "updatedAt": "2025-10-29T18:08:04Z",
+    "updatedAt": "2025-10-29T20:14:50Z",
     "url": "https://github.com/lencx/ChatGPT",
     "__query": "topic:ai language:python created:>2025-10-28",
     "score": 59,
@@ -9536,7 +9536,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 10226.189444444444
+      "age_hours": 10226.361944444445
     }
   },
   {
@@ -9566,7 +9566,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 1469.7580555555555
+      "age_hours": 1469.9305555555557
     }
   },
   {
@@ -9596,7 +9596,7 @@
       "language": 5,
       "description": 3,
       "random": 1,
-      "age_hours": 4764.456111111111
+      "age_hours": 4764.628611111111
     }
   },
   {
@@ -9626,7 +9626,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 11040.388888888889
+      "age_hours": 11040.56138888889
     }
   },
   {
@@ -9656,7 +9656,7 @@
       "language": 0,
       "description": 3,
       "random": 5,
-      "age_hours": 2084.1736111111113
+      "age_hours": 2084.346111111111
     }
   },
   {
@@ -9686,7 +9686,7 @@
       "language": 0,
       "description": 3,
       "random": 5,
-      "age_hours": 11315.236944444445
+      "age_hours": 11315.409444444444
     }
   },
   {
@@ -9716,7 +9716,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 290.93888888888887
+      "age_hours": 291.1113888888889
     }
   },
   {
@@ -9746,7 +9746,7 @@
       "language": 0,
       "description": 3,
       "random": 5,
-      "age_hours": 8262.148611111112
+      "age_hours": 8262.32111111111
     }
   },
   {
@@ -9776,7 +9776,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 1494.0580555555555
+      "age_hours": 1494.2305555555556
     }
   },
   {
@@ -9806,7 +9806,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 10600.61
+      "age_hours": 10600.7825
     }
   },
   {
@@ -9836,7 +9836,7 @@
       "language": 5,
       "description": 0,
       "random": 3,
-      "age_hours": 2012.0336111111112
+      "age_hours": 2012.206111111111
     }
   },
   {
@@ -9866,7 +9866,7 @@
       "language": 5,
       "description": 3,
       "random": 0,
-      "age_hours": 5723.342777777778
+      "age_hours": 5723.515277777778
     }
   },
   {
@@ -9884,19 +9884,19 @@
       "url": "https://github.com/microsoft"
     },
     "pushedAt": "2025-10-24T10:20:03Z",
-    "stargazersCount": 78383,
-    "updatedAt": "2025-10-29T18:11:58Z",
+    "stargazersCount": 78384,
+    "updatedAt": "2025-10-29T20:13:21Z",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
-    "score": 57.39508928571429,
+    "score": 57.36941964285714,
     "score_breakdown": {
-      "recency": 16.39508928571429,
+      "recency": 16.369419642857142,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 129.825
+      "age_hours": 129.9975
     }
   },
   {
@@ -9918,15 +9918,15 @@
     "updatedAt": "2025-10-29T06:33:16Z",
     "url": "https://github.com/react-cosmos/react-cosmos",
     "__query": "topic:devtools created:>2025-10-28",
-    "score": 57.04799107142857,
+    "score": 57.02232142857143,
     "score_breakdown": {
-      "recency": 17.04799107142857,
+      "recency": 17.02232142857143,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 125.4375
+      "age_hours": 125.61
     }
   },
   {
@@ -9956,7 +9956,7 @@
       "language": 0,
       "description": 3,
       "random": 4,
-      "age_hours": 10973.802777777777
+      "age_hours": 10973.975277777778
     }
   },
   {
@@ -9986,7 +9986,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 10635.836666666666
+      "age_hours": 10636.009166666667
     }
   },
   {
@@ -10016,7 +10016,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 169.41083333333333
+      "age_hours": 169.58333333333334
     }
   },
   {
@@ -10046,7 +10046,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 969.845
+      "age_hours": 970.0175
     }
   },
   {
@@ -10076,7 +10076,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 601.9697222222222
+      "age_hours": 602.1422222222222
     }
   },
   {
@@ -10106,7 +10106,7 @@
       "language": 0,
       "description": 3,
       "random": 4,
-      "age_hours": 1079.5747222222221
+      "age_hours": 1079.7472222222223
     }
   },
   {
@@ -10136,7 +10136,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 218.7686111111111
+      "age_hours": 218.9411111111111
     }
   },
   {
@@ -10166,7 +10166,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 462.19916666666666
+      "age_hours": 462.37166666666667
     }
   },
   {
@@ -10196,7 +10196,7 @@
       "language": 5,
       "description": 3,
       "random": -1,
-      "age_hours": 579.2302777777778
+      "age_hours": 579.4027777777778
     }
   },
   {
@@ -10226,7 +10226,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 9209.673333333334
+      "age_hours": 9209.845833333333
     }
   },
   {
@@ -10256,7 +10256,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 480.8088888888889
+      "age_hours": 480.9813888888889
     }
   },
   {
@@ -10286,7 +10286,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 738.0541666666667
+      "age_hours": 738.2266666666667
     }
   },
   {
@@ -10316,7 +10316,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 7586.649444444444
+      "age_hours": 7586.821944444445
     }
   },
   {
@@ -10346,7 +10346,7 @@
       "language": 5,
       "description": 3,
       "random": -2,
-      "age_hours": 925.2883333333333
+      "age_hours": 925.4608333333333
     }
   },
   {
@@ -10376,7 +10376,7 @@
       "language": 0,
       "description": 3,
       "random": 3,
-      "age_hours": 528.9005555555556
+      "age_hours": 529.0730555555556
     }
   },
   {
@@ -10406,7 +10406,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 673.6322222222223
+      "age_hours": 673.8047222222223
     }
   },
   {
@@ -10436,7 +10436,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 10642.666388888889
+      "age_hours": 10642.83888888889
     }
   },
   {
@@ -10466,7 +10466,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 2317.177777777778
+      "age_hours": 2317.3502777777776
     }
   },
   {
@@ -10496,7 +10496,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 197.73611111111111
+      "age_hours": 197.9086111111111
     }
   },
   {
@@ -10526,7 +10526,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 329.79555555555555
+      "age_hours": 329.96805555555557
     }
   },
   {
@@ -10556,7 +10556,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 234.46138888888888
+      "age_hours": 234.6338888888889
     }
   },
   {
@@ -10586,7 +10586,7 @@
       "language": 5,
       "description": 3,
       "random": -3,
-      "age_hours": 3847.9844444444443
+      "age_hours": 3848.1569444444444
     }
   },
   {
@@ -10616,7 +10616,7 @@
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 530.9108333333334
+      "age_hours": 531.0833333333334
     }
   },
   {
@@ -10634,8 +10634,8 @@
       "url": "https://github.com/cloudcommunity"
     },
     "pushedAt": "2025-07-22T03:37:50Z",
-    "stargazersCount": 41820,
-    "updatedAt": "2025-10-29T20:01:43Z",
+    "stargazersCount": 41821,
+    "updatedAt": "2025-10-29T20:09:56Z",
     "url": "https://github.com/cloudcommunity/Free-Certifications",
     "__query": "topic:awesome created:>2025-10-28",
     "score": 54,
@@ -10646,7 +10646,7 @@
       "language": 0,
       "description": 3,
       "random": 1,
-      "age_hours": 2392.5286111111113
+      "age_hours": 2392.701111111111
     }
   },
   {
@@ -10676,7 +10676,7 @@
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 936.6972222222222
+      "age_hours": 936.8697222222222
     }
   },
   {
@@ -10706,7 +10706,7 @@
       "language": 5,
       "description": 3,
       "random": -4,
-      "age_hours": 460.57194444444445
+      "age_hours": 460.74444444444447
     }
   },
   {
@@ -10736,7 +10736,7 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 5391.4525
+      "age_hours": 5391.625
     }
   },
   {
@@ -10766,7 +10766,7 @@
       "language": 0,
       "description": 3,
       "random": 0,
-      "age_hours": 611.7041666666667
+      "age_hours": 611.8766666666667
     }
   },
   {
@@ -10796,7 +10796,7 @@
       "language": 0,
       "description": 3,
       "random": 0,
-      "age_hours": 10638.277777777777
+      "age_hours": 10638.450277777778
     }
   },
   {
@@ -10826,7 +10826,7 @@
       "language": 5,
       "description": 3,
       "random": -5,
-      "age_hours": 2994.304722222222
+      "age_hours": 2994.4772222222223
     }
   },
   {
@@ -10856,7 +10856,7 @@
       "language": 0,
       "description": 3,
       "random": -1,
-      "age_hours": 6834.358611111111
+      "age_hours": 6834.531111111111
     }
   },
   {
@@ -10886,7 +10886,7 @@
       "language": 5,
       "description": 3,
       "random": -6,
-      "age_hours": 10343.041944444445
+      "age_hours": 10343.214444444444
     }
   },
   {
@@ -10916,7 +10916,7 @@
       "language": 5,
       "description": 3,
       "random": -6,
-      "age_hours": 8771.511111111111
+      "age_hours": 8771.683611111112
     }
   },
   {
@@ -10946,7 +10946,7 @@
       "language": 5,
       "description": 3,
       "random": -6,
-      "age_hours": 7665.22
+      "age_hours": 7665.3925
     }
   },
   {
@@ -10976,7 +10976,7 @@
       "language": 5,
       "description": 3,
       "random": -6,
-      "age_hours": 3373.5775
+      "age_hours": 3373.75
     }
   },
   {
@@ -11006,7 +11006,7 @@
       "language": 0,
       "description": 3,
       "random": -2,
-      "age_hours": 8856.209166666667
+      "age_hours": 8856.381666666666
     }
   },
   {
@@ -11036,7 +11036,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 3546.007222222222
+      "age_hours": 3546.179722222222
     }
   },
   {
@@ -11066,7 +11066,7 @@
       "language": 0,
       "description": 3,
       "random": -2,
-      "age_hours": 12633.209722222222
+      "age_hours": 12633.382222222222
     }
   },
   {
@@ -11096,7 +11096,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 1012.7472222222223
+      "age_hours": 1012.9197222222223
     }
   },
   {
@@ -11126,7 +11126,7 @@
       "language": 0,
       "description": 3,
       "random": -2,
-      "age_hours": 2185.4547222222222
+      "age_hours": 2185.6272222222224
     }
   },
   {
@@ -11156,7 +11156,7 @@
       "language": 0,
       "description": 3,
       "random": -2,
-      "age_hours": 4217.538888888889
+      "age_hours": 4217.711388888889
     }
   },
   {
@@ -11186,7 +11186,7 @@
       "language": 5,
       "description": 3,
       "random": -7,
-      "age_hours": 2503.626388888889
+      "age_hours": 2503.798888888889
     }
   },
   {
@@ -11216,7 +11216,7 @@
       "language": 0,
       "description": 3,
       "random": -3,
-      "age_hours": 14633.364166666666
+      "age_hours": 14633.536666666667
     }
   },
   {
@@ -11246,7 +11246,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 13331.370555555555
+      "age_hours": 13331.543055555556
     }
   },
   {
@@ -11276,7 +11276,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 10503.588333333333
+      "age_hours": 10503.760833333334
     }
   },
   {
@@ -11306,7 +11306,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 10429.7825
+      "age_hours": 10429.955
     }
   },
   {
@@ -11336,7 +11336,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 459.9658333333333
+      "age_hours": 460.1383333333333
     }
   },
   {
@@ -11366,7 +11366,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 11481.872777777779
+      "age_hours": 11482.045277777777
     }
   },
   {
@@ -11384,8 +11384,8 @@
       "url": "https://github.com/facebook"
     },
     "pushedAt": "2025-02-15T01:32:11Z",
-    "stargazersCount": 103821,
-    "updatedAt": "2025-10-29T19:29:34Z",
+    "stargazersCount": 103822,
+    "updatedAt": "2025-10-29T20:18:39Z",
     "url": "https://github.com/facebook/create-react-app",
     "__query": "topic:react language:typescript created:>2025-10-28",
     "score": 50,
@@ -11396,7 +11396,7 @@
       "language": 5,
       "description": 3,
       "random": -8,
-      "age_hours": 6162.622777777778
+      "age_hours": 6162.795277777778
     }
   },
   {
@@ -11426,7 +11426,7 @@
       "language": 0,
       "description": 3,
       "random": -3,
-      "age_hours": 12110.985555555555
+      "age_hours": 12111.158055555556
     }
   },
   {
@@ -11456,7 +11456,7 @@
       "language": 0,
       "description": 3,
       "random": -3,
-      "age_hours": 13476.797222222222
+      "age_hours": 13476.969722222222
     }
   },
   {
@@ -11478,15 +11478,15 @@
     "updatedAt": "2025-10-29T19:00:26Z",
     "url": "https://github.com/GoogleChrome/lighthouse",
     "__query": "topic:developer-tools created:>2025-10-28",
-    "score": 49.059317129629626,
+    "score": 49.03364748677249,
     "score_breakdown": {
-      "recency": 11.059317129629628,
+      "recency": 11.033647486772487,
       "stars": 30,
       "forks": 10,
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 165.68138888888888
+      "age_hours": 165.8538888888889
     }
   },
   {
@@ -11516,7 +11516,7 @@
       "language": 0,
       "description": 3,
       "random": -4,
-      "age_hours": 16092.194444444445
+      "age_hours": 16092.366944444444
     }
   },
   {
@@ -11546,7 +11546,7 @@
       "language": 5,
       "description": 3,
       "random": -9,
-      "age_hours": 358.5077777777778
+      "age_hours": 358.6802777777778
     }
   },
   {
@@ -11576,7 +11576,7 @@
       "language": 0,
       "description": 3,
       "random": -4,
-      "age_hours": 646.0125
+      "age_hours": 646.185
     }
   },
   {
@@ -11606,7 +11606,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 4041.906388888889
+      "age_hours": 4042.0788888888887
     }
   },
   {
@@ -11636,7 +11636,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 400.70666666666665
+      "age_hours": 400.87916666666666
     }
   },
   {
@@ -11666,7 +11666,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 10530.232777777777
+      "age_hours": 10530.405277777778
     }
   },
   {
@@ -11696,7 +11696,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 448.8355555555556
+      "age_hours": 449.00805555555553
     }
   },
   {
@@ -11726,7 +11726,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 7369.850277777778
+      "age_hours": 7370.022777777778
     }
   },
   {
@@ -11756,7 +11756,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 31677.4225
+      "age_hours": 31677.595
     }
   },
   {
@@ -11774,8 +11774,8 @@
       "url": "https://github.com/public-apis"
     },
     "pushedAt": "2025-05-20T15:56:34Z",
-    "stargazersCount": 374466,
-    "updatedAt": "2025-10-29T20:08:42Z",
+    "stargazersCount": 374468,
+    "updatedAt": "2025-10-29T20:13:49Z",
     "url": "https://github.com/public-apis/public-apis",
     "__query": "topic:api created:>2025-10-28",
     "score": 48,
@@ -11786,7 +11786,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 3892.216388888889
+      "age_hours": 3892.3888888888887
     }
   },
   {
@@ -11804,8 +11804,8 @@
       "url": "https://github.com/tesseract-ocr"
     },
     "pushedAt": "2025-10-13T06:03:35Z",
-    "stargazersCount": 70583,
-    "updatedAt": "2025-10-29T17:01:09Z",
+    "stargazersCount": 70584,
+    "updatedAt": "2025-10-29T20:18:42Z",
     "url": "https://github.com/tesseract-ocr/tesseract",
     "__query": "topic:machine-learning language:python created:>2025-10-28",
     "score": 48,
@@ -11816,7 +11816,7 @@
       "language": 5,
       "description": 3,
       "random": -10,
-      "age_hours": 398.09944444444443
+      "age_hours": 398.27194444444444
     }
   },
   {
@@ -11846,7 +11846,7 @@
       "language": 0,
       "description": 3,
       "random": -5,
-      "age_hours": 13487.89361111111
+      "age_hours": 13488.066111111111
     }
   },
   {
@@ -11876,7 +11876,7 @@
       "language": 0,
       "description": 3,
       "random": -6,
-      "age_hours": 21823.333055555555
+      "age_hours": 21823.505555555555
     }
   },
   {
@@ -11906,7 +11906,7 @@
       "language": 0,
       "description": 3,
       "random": -6,
-      "age_hours": 11531.052777777777
+      "age_hours": 11531.225277777778
     }
   },
   {
@@ -11936,7 +11936,7 @@
       "language": 0,
       "description": 3,
       "random": -8,
-      "age_hours": 24529.035555555554
+      "age_hours": 24529.208055555555
     }
   },
   {
@@ -11966,7 +11966,7 @@
       "language": 0,
       "description": 3,
       "random": -9,
-      "age_hours": 1894.6341666666667
+      "age_hours": 1894.8066666666666
     }
   },
   {
@@ -11996,7 +11996,7 @@
       "language": 0,
       "description": 3,
       "random": -9,
-      "age_hours": 241.41916666666665
+      "age_hours": 241.59166666666667
     }
   },
   {
@@ -12026,7 +12026,7 @@
       "language": 0,
       "description": 3,
       "random": -10,
-      "age_hours": 5363.2461111111115
+      "age_hours": 5363.418611111111
     }
   },
   {
@@ -12056,7 +12056,7 @@
       "language": 0,
       "description": 3,
       "random": -10,
-      "age_hours": 9936.343611111111
+      "age_hours": 9936.516111111112
     }
   }
 ]

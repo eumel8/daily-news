@@ -34,8 +34,8 @@
       "url": "https://github.com/AUTOMATIC1111"
     },
     "pushedAt": "2025-10-07T20:06:10Z",
-    "stargazersCount": 157678,
-    "updatedAt": "2025-10-29T19:58:45Z",
+    "stargazersCount": 157679,
+    "updatedAt": "2025-10-29T20:10:08Z",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -54,8 +54,8 @@
       "url": "https://github.com/Aider-AI"
     },
     "pushedAt": "2025-10-05T19:11:17Z",
-    "stargazersCount": 38105,
-    "updatedAt": "2025-10-29T18:42:23Z",
+    "stargazersCount": 38106,
+    "updatedAt": "2025-10-29T20:18:00Z",
     "url": "https://github.com/Aider-AI/aider",
     "__query": "topic:cli language:rust created:>2025-10-28"
   },
@@ -333,9 +333,9 @@
       "type": "Organization",
       "url": "https://github.com/ChromeDevTools"
     },
-    "pushedAt": "2025-10-29T19:26:40Z",
-    "stargazersCount": 13167,
-    "updatedAt": "2025-10-29T19:49:56Z",
+    "pushedAt": "2025-10-29T20:10:56Z",
+    "stargazersCount": 13171,
+    "updatedAt": "2025-10-29T20:18:00Z",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "__query": "topic:devtools created:>2025-10-28"
   },
@@ -373,7 +373,7 @@
       "type": "Organization",
       "url": "https://github.com/ClickHouse"
     },
-    "pushedAt": "2025-10-29T20:04:46Z",
+    "pushedAt": "2025-10-29T20:18:13Z",
     "stargazersCount": 43663,
     "updatedAt": "2025-10-29T19:54:02Z",
     "url": "https://github.com/ClickHouse/ClickHouse",
@@ -814,8 +814,8 @@
       "url": "https://github.com/GyulyVGC"
     },
     "pushedAt": "2025-10-29T14:27:37Z",
-    "stargazersCount": 31519,
-    "updatedAt": "2025-10-29T19:58:45Z",
+    "stargazersCount": 31520,
+    "updatedAt": "2025-10-29T20:14:10Z",
     "url": "https://github.com/GyulyVGC/sniffnet",
     "__query": "topic:security language:go created:>2025-10-28"
   },
@@ -893,9 +893,9 @@
       "type": "Organization",
       "url": "https://github.com/JetBrains"
     },
-    "pushedAt": "2025-10-29T19:53:13Z",
+    "pushedAt": "2025-10-29T20:11:21Z",
     "stargazersCount": 51511,
-    "updatedAt": "2025-10-29T19:24:03Z",
+    "updatedAt": "2025-10-29T20:11:25Z",
     "url": "https://github.com/JetBrains/kotlin",
     "__query": "topic:wasm created:>2025-10-28"
   },
@@ -934,8 +934,8 @@
       "url": "https://github.com/Kong"
     },
     "pushedAt": "2025-10-29T19:48:36Z",
-    "stargazersCount": 37432,
-    "updatedAt": "2025-10-29T19:30:36Z",
+    "stargazersCount": 37433,
+    "updatedAt": "2025-10-29T20:12:16Z",
     "url": "https://github.com/Kong/insomnia",
     "__query": "topic:api created:>2025-10-28"
   },
@@ -1033,7 +1033,7 @@
       "type": "Organization",
       "url": "https://github.com/MetaMask"
     },
-    "pushedAt": "2025-10-29T20:06:01Z",
+    "pushedAt": "2025-10-29T20:18:21Z",
     "stargazersCount": 2663,
     "updatedAt": "2025-10-29T20:02:48Z",
     "url": "https://github.com/MetaMask/metamask-mobile",
@@ -1093,7 +1093,7 @@
       "type": "Organization",
       "url": "https://github.com/NomicFoundation"
     },
-    "pushedAt": "2025-10-29T18:40:03Z",
+    "pushedAt": "2025-10-29T20:19:00Z",
     "stargazersCount": 8268,
     "updatedAt": "2025-10-29T15:17:01Z",
     "url": "https://github.com/NomicFoundation/hardhat",
@@ -1213,9 +1213,9 @@
       "type": "Organization",
       "url": "https://github.com/OpenHands"
     },
-    "pushedAt": "2025-10-29T20:03:46Z",
+    "pushedAt": "2025-10-29T20:17:48Z",
     "stargazersCount": 64554,
-    "updatedAt": "2025-10-29T19:19:28Z",
+    "updatedAt": "2025-10-29T20:17:52Z",
     "url": "https://github.com/OpenHands/OpenHands",
     "__query": "topic:cli language:rust created:>2025-10-28"
   },
@@ -1482,7 +1482,7 @@
   {
     "createdAt": "2019-09-10T19:23:58Z",
     "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
-    "forksCount": 3538,
+    "forksCount": 3537,
     "fullName": "TanStack/query",
     "language": "TypeScript",
     "name": "query",
@@ -1494,8 +1494,8 @@
       "url": "https://github.com/TanStack"
     },
     "pushedAt": "2025-10-29T16:12:35Z",
-    "stargazersCount": 47178,
-    "updatedAt": "2025-10-29T18:17:00Z",
+    "stargazersCount": 47179,
+    "updatedAt": "2025-10-29T20:16:21Z",
     "url": "https://github.com/TanStack/query",
     "__query": "topic:react language:typescript created:>2025-10-28"
   },
@@ -2114,8 +2114,8 @@
       "url": "https://github.com/authelia"
     },
     "pushedAt": "2025-10-29T17:49:23Z",
-    "stargazersCount": 25641,
-    "updatedAt": "2025-10-29T19:01:53Z",
+    "stargazersCount": 25642,
+    "updatedAt": "2025-10-29T20:15:14Z",
     "url": "https://github.com/authelia/authelia",
     "__query": "topic:kubernetes language:go created:>2025-10-28"
   },
@@ -2134,8 +2134,8 @@
       "url": "https://github.com/avelino"
     },
     "pushedAt": "2025-10-29T16:52:21Z",
-    "stargazersCount": 156046,
-    "updatedAt": "2025-10-29T20:03:52Z",
+    "stargazersCount": 156047,
+    "updatedAt": "2025-10-29T20:18:59Z",
     "url": "https://github.com/avelino/awesome-go",
     "__query": "topic:awesome created:>2025-10-28"
   },
@@ -2154,8 +2154,8 @@
       "url": "https://github.com/awesome-selfhosted"
     },
     "pushedAt": "2025-10-28T16:27:40Z",
-    "stargazersCount": 255372,
-    "updatedAt": "2025-10-29T20:06:42Z",
+    "stargazersCount": 255373,
+    "updatedAt": "2025-10-29T20:09:55Z",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "__query": "topic:awesome created:>2025-10-28"
   },
@@ -2333,7 +2333,7 @@
       "type": "Organization",
       "url": "https://github.com/calcom"
     },
-    "pushedAt": "2025-10-29T19:55:45Z",
+    "pushedAt": "2025-10-29T20:12:45Z",
     "stargazersCount": 38597,
     "updatedAt": "2025-10-29T18:48:03Z",
     "url": "https://github.com/calcom/cal.com",
@@ -2474,8 +2474,8 @@
       "url": "https://github.com/cli"
     },
     "pushedAt": "2025-10-29T17:30:30Z",
-    "stargazersCount": 41194,
-    "updatedAt": "2025-10-29T19:54:32Z",
+    "stargazersCount": 41195,
+    "updatedAt": "2025-10-29T20:13:42Z",
     "url": "https://github.com/cli/cli",
     "__query": "topic:cli language:rust created:>2025-10-28"
   },
@@ -2494,8 +2494,8 @@
       "url": "https://github.com/cloudcommunity"
     },
     "pushedAt": "2025-07-22T03:37:50Z",
-    "stargazersCount": 41820,
-    "updatedAt": "2025-10-29T20:01:43Z",
+    "stargazersCount": 41821,
+    "updatedAt": "2025-10-29T20:09:56Z",
     "url": "https://github.com/cloudcommunity/Free-Certifications",
     "__query": "topic:awesome created:>2025-10-28"
   },
@@ -2573,9 +2573,9 @@
       "type": "Organization",
       "url": "https://github.com/continuedev"
     },
-    "pushedAt": "2025-10-29T18:05:52Z",
+    "pushedAt": "2025-10-29T20:19:06Z",
     "stargazersCount": 29555,
-    "updatedAt": "2025-10-29T19:58:46Z",
+    "updatedAt": "2025-10-29T20:17:38Z",
     "url": "https://github.com/continuedev/continue",
     "__query": "topic:cli language:rust created:>2025-10-28"
   },
@@ -3135,7 +3135,7 @@
     },
     "pushedAt": "2025-10-29T20:06:30Z",
     "stargazersCount": 20773,
-    "updatedAt": "2025-10-29T20:01:05Z",
+    "updatedAt": "2025-10-29T20:10:59Z",
     "url": "https://github.com/elastic/kibana",
     "__query": "topic:observability language:go created:>2025-10-28"
   },
@@ -3394,8 +3394,8 @@
       "url": "https://github.com/expo"
     },
     "pushedAt": "2025-10-29T19:46:36Z",
-    "stargazersCount": 44495,
-    "updatedAt": "2025-10-29T18:55:01Z",
+    "stargazersCount": 44496,
+    "updatedAt": "2025-10-29T20:14:38Z",
     "url": "https://github.com/expo/expo",
     "__query": "topic:react language:typescript created:>2025-10-28"
   },
@@ -3414,8 +3414,8 @@
       "url": "https://github.com/facebook"
     },
     "pushedAt": "2025-02-15T01:32:11Z",
-    "stargazersCount": 103821,
-    "updatedAt": "2025-10-29T19:29:34Z",
+    "stargazersCount": 103822,
+    "updatedAt": "2025-10-29T20:18:39Z",
     "url": "https://github.com/facebook/create-react-app",
     "__query": "topic:react language:typescript created:>2025-10-28"
   },
@@ -3574,8 +3574,8 @@
       "url": "https://github.com/firecrawl"
     },
     "pushedAt": "2025-10-29T19:22:47Z",
-    "stargazersCount": 65358,
-    "updatedAt": "2025-10-29T19:49:38Z",
+    "stargazersCount": 65359,
+    "updatedAt": "2025-10-29T20:16:40Z",
     "url": "https://github.com/firecrawl/firecrawl",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -3674,8 +3674,8 @@
       "url": "https://github.com/freeCodeCamp"
     },
     "pushedAt": "2025-10-29T19:59:48Z",
-    "stargazersCount": 430935,
-    "updatedAt": "2025-10-29T20:08:39Z",
+    "stargazersCount": 430936,
+    "updatedAt": "2025-10-29T20:17:39Z",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "__query": "topic:react language:typescript created:>2025-10-28"
   },
@@ -3754,8 +3754,8 @@
       "url": "https://github.com/github"
     },
     "pushedAt": "2025-10-23T17:12:11Z",
-    "stargazersCount": 43279,
-    "updatedAt": "2025-10-29T20:06:36Z",
+    "stargazersCount": 43281,
+    "updatedAt": "2025-10-29T20:16:00Z",
     "url": "https://github.com/github/spec-kit",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -4033,7 +4033,7 @@
       "type": "Organization",
       "url": "https://github.com/hashicorp"
     },
-    "pushedAt": "2025-10-29T19:53:26Z",
+    "pushedAt": "2025-10-29T20:13:17Z",
     "stargazersCount": 29468,
     "updatedAt": "2025-10-29T15:45:02Z",
     "url": "https://github.com/hashicorp/consul",
@@ -4182,7 +4182,7 @@
   {
     "createdAt": "2018-10-29T13:56:00Z",
     "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-    "forksCount": 30982,
+    "forksCount": 30983,
     "fullName": "huggingface/transformers",
     "language": "Python",
     "name": "transformers",
@@ -4482,7 +4482,7 @@
   {
     "createdAt": "2013-10-23T16:04:23Z",
     "description": ":cherry_blossom: A command-line fuzzy finder",
-    "forksCount": 2604,
+    "forksCount": 2605,
     "fullName": "junegunn/fzf",
     "language": "Go",
     "name": "fzf",
@@ -4554,8 +4554,8 @@
       "url": "https://github.com/keepassxreboot"
     },
     "pushedAt": "2025-10-29T13:49:52Z",
-    "stargazersCount": 24563,
-    "updatedAt": "2025-10-29T19:56:10Z",
+    "stargazersCount": 24564,
+    "updatedAt": "2025-10-29T20:17:02Z",
     "url": "https://github.com/keepassxreboot/keepassxc",
     "__query": "topic:security language:go created:>2025-10-28"
   },
@@ -4733,7 +4733,7 @@
       "type": "Organization",
       "url": "https://github.com/langchain-ai"
     },
-    "pushedAt": "2025-10-29T20:02:59Z",
+    "pushedAt": "2025-10-29T20:18:40Z",
     "stargazersCount": 118393,
     "updatedAt": "2025-10-29T19:55:55Z",
     "url": "https://github.com/langchain-ai/langchain",
@@ -4754,8 +4754,8 @@
       "url": "https://github.com/langfuse"
     },
     "pushedAt": "2025-10-29T19:43:35Z",
-    "stargazersCount": 17696,
-    "updatedAt": "2025-10-29T19:08:45Z",
+    "stargazersCount": 17697,
+    "updatedAt": "2025-10-29T20:17:31Z",
     "url": "https://github.com/langfuse/langfuse",
     "__query": "topic:observability language:go created:>2025-10-28"
   },
@@ -4835,7 +4835,7 @@
     },
     "pushedAt": "2024-08-29T17:58:11Z",
     "stargazersCount": 54194,
-    "updatedAt": "2025-10-29T18:08:04Z",
+    "updatedAt": "2025-10-29T20:14:50Z",
     "url": "https://github.com/lencx/ChatGPT",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -4954,8 +4954,8 @@
       "url": "https://github.com/lobehub"
     },
     "pushedAt": "2025-10-29T18:50:43Z",
-    "stargazersCount": 67258,
-    "updatedAt": "2025-10-29T19:58:46Z",
+    "stargazersCount": 67257,
+    "updatedAt": "2025-10-29T20:18:26Z",
     "url": "https://github.com/lobehub/lobe-chat",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -5114,8 +5114,8 @@
       "url": "https://github.com/microsoft"
     },
     "pushedAt": "2025-10-24T10:20:03Z",
-    "stargazersCount": 78383,
-    "updatedAt": "2025-10-29T18:11:58Z",
+    "stargazersCount": 78384,
+    "updatedAt": "2025-10-29T20:13:21Z",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "__query": "topic:machine-learning language:python created:>2025-10-28"
   },
@@ -5374,8 +5374,8 @@
       "url": "https://github.com/n8n-io"
     },
     "pushedAt": "2025-10-29T19:38:03Z",
-    "stargazersCount": 152648,
-    "updatedAt": "2025-10-29T20:07:54Z",
+    "stargazersCount": 152650,
+    "updatedAt": "2025-10-29T20:18:58Z",
     "url": "https://github.com/n8n-io/n8n",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -5554,8 +5554,8 @@
       "url": "https://github.com/open-webui"
     },
     "pushedAt": "2025-10-29T00:31:39Z",
-    "stargazersCount": 113694,
-    "updatedAt": "2025-10-29T20:07:45Z",
+    "stargazersCount": 113696,
+    "updatedAt": "2025-10-29T20:16:10Z",
     "url": "https://github.com/open-webui/open-webui",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -5594,8 +5594,8 @@
       "url": "https://github.com/openobserve"
     },
     "pushedAt": "2025-10-29T17:49:43Z",
-    "stargazersCount": 16995,
-    "updatedAt": "2025-10-29T18:25:34Z",
+    "stargazersCount": 16996,
+    "updatedAt": "2025-10-29T20:12:17Z",
     "url": "https://github.com/openobserve/openobserve",
     "__query": "topic:observability language:go created:>2025-10-28"
   },
@@ -5782,7 +5782,7 @@
   {
     "createdAt": "2021-01-05T18:49:45Z",
     "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
-    "forksCount": 3043,
+    "forksCount": 3044,
     "fullName": "payloadcms/payload",
     "language": "TypeScript",
     "name": "payload",
@@ -6013,7 +6013,7 @@
       "type": "Organization",
       "url": "https://github.com/projectcalico"
     },
-    "pushedAt": "2025-10-29T20:05:08Z",
+    "pushedAt": "2025-10-29T20:17:22Z",
     "stargazersCount": 6854,
     "updatedAt": "2025-10-29T19:35:10Z",
     "url": "https://github.com/projectcalico/calico",
@@ -6054,8 +6054,8 @@
       "url": "https://github.com/public-apis"
     },
     "pushedAt": "2025-05-20T15:56:34Z",
-    "stargazersCount": 374466,
-    "updatedAt": "2025-10-29T20:08:42Z",
+    "stargazersCount": 374468,
+    "updatedAt": "2025-10-29T20:13:49Z",
     "url": "https://github.com/public-apis/public-apis",
     "__query": "topic:api created:>2025-10-28"
   },
@@ -6133,9 +6133,9 @@
       "type": "Organization",
       "url": "https://github.com/pytorch"
     },
-    "pushedAt": "2025-10-29T20:02:48Z",
+    "pushedAt": "2025-10-29T20:18:28Z",
     "stargazersCount": 94374,
-    "updatedAt": "2025-10-29T20:00:36Z",
+    "updatedAt": "2025-10-29T20:13:57Z",
     "url": "https://github.com/pytorch/pytorch",
     "__query": "topic:machine-learning language:python created:>2025-10-28"
   },
@@ -6234,8 +6234,8 @@
       "url": "https://github.com/rasbt"
     },
     "pushedAt": "2025-10-29T01:36:22Z",
-    "stargazersCount": 77075,
-    "updatedAt": "2025-10-29T19:56:21Z",
+    "stargazersCount": 77076,
+    "updatedAt": "2025-10-29T20:13:25Z",
     "url": "https://github.com/rasbt/LLMs-from-scratch",
     "__query": "topic:ai language:python created:>2025-10-28"
   },
@@ -6253,7 +6253,7 @@
       "type": "Organization",
       "url": "https://github.com/ray-project"
     },
-    "pushedAt": "2025-10-29T19:50:06Z",
+    "pushedAt": "2025-10-29T20:11:46Z",
     "stargazersCount": 39584,
     "updatedAt": "2025-10-29T19:51:04Z",
     "url": "https://github.com/ray-project/ray",
@@ -6274,8 +6274,8 @@
       "url": "https://github.com/raysan5"
     },
     "pushedAt": "2025-10-29T10:33:14Z",
-    "stargazersCount": 29008,
-    "updatedAt": "2025-10-29T19:55:33Z",
+    "stargazersCount": 29009,
+    "updatedAt": "2025-10-29T20:17:44Z",
     "url": "https://github.com/raysan5/raylib",
     "__query": "topic:wasm created:>2025-10-28"
   },
@@ -6413,7 +6413,7 @@
       "type": "Organization",
       "url": "https://github.com/seaweedfs"
     },
-    "pushedAt": "2025-10-29T19:34:36Z",
+    "pushedAt": "2025-10-29T20:17:58Z",
     "stargazersCount": 26691,
     "updatedAt": "2025-10-29T20:02:43Z",
     "url": "https://github.com/seaweedfs/seaweedfs",
@@ -6574,8 +6574,8 @@
       "url": "https://github.com/sindresorhus"
     },
     "pushedAt": "2025-10-28T17:49:44Z",
-    "stargazersCount": 410361,
-    "updatedAt": "2025-10-29T20:08:28Z",
+    "stargazersCount": 410363,
+    "updatedAt": "2025-10-29T20:14:50Z",
     "url": "https://github.com/sindresorhus/awesome",
     "__query": "topic:awesome created:>2025-10-28"
   },
@@ -6893,7 +6893,7 @@
       "type": "Organization",
       "url": "https://github.com/supabase"
     },
-    "pushedAt": "2025-10-29T20:02:38Z",
+    "pushedAt": "2025-10-29T20:15:17Z",
     "stargazersCount": 90849,
     "updatedAt": "2025-10-29T20:02:42Z",
     "url": "https://github.com/supabase/supabase",
@@ -7033,7 +7033,7 @@
       "type": "Organization",
       "url": "https://github.com/tensorflow"
     },
-    "pushedAt": "2025-10-29T20:06:27Z",
+    "pushedAt": "2025-10-29T20:17:21Z",
     "stargazersCount": 192255,
     "updatedAt": "2025-10-29T20:05:05Z",
     "url": "https://github.com/tensorflow/tensorflow",
@@ -7094,8 +7094,8 @@
       "url": "https://github.com/tesseract-ocr"
     },
     "pushedAt": "2025-10-13T06:03:35Z",
-    "stargazersCount": 70583,
-    "updatedAt": "2025-10-29T17:01:09Z",
+    "stargazersCount": 70584,
+    "updatedAt": "2025-10-29T20:18:42Z",
     "url": "https://github.com/tesseract-ocr/tesseract",
     "__query": "topic:machine-learning language:python created:>2025-10-28"
   },
@@ -7114,8 +7114,8 @@
       "url": "https://github.com/thanos-io"
     },
     "pushedAt": "2025-10-28T15:25:04Z",
-    "stargazersCount": 13777,
-    "updatedAt": "2025-10-29T14:39:02Z",
+    "stargazersCount": 13778,
+    "updatedAt": "2025-10-29T20:16:36Z",
     "url": "https://github.com/thanos-io/thanos",
     "__query": "topic:observability language:go created:>2025-10-28"
   },
@@ -7314,8 +7314,8 @@
       "url": "https://github.com/tree-sitter"
     },
     "pushedAt": "2025-10-29T14:20:16Z",
-    "stargazersCount": 22533,
-    "updatedAt": "2025-10-29T20:06:57Z",
+    "stargazersCount": 22534,
+    "updatedAt": "2025-10-29T20:17:45Z",
     "url": "https://github.com/tree-sitter/tree-sitter",
     "__query": "topic:wasm created:>2025-10-28"
   },
@@ -7374,8 +7374,8 @@
       "url": "https://github.com/trpc"
     },
     "pushedAt": "2025-10-28T10:41:38Z",
-    "stargazersCount": 38777,
-    "updatedAt": "2025-10-29T20:07:37Z",
+    "stargazersCount": 38778,
+    "updatedAt": "2025-10-29T20:18:13Z",
     "url": "https://github.com/trpc/trpc",
     "__query": "topic:api created:>2025-10-28"
   },
@@ -7393,7 +7393,7 @@
       "type": "Organization",
       "url": "https://github.com/trufflesecurity"
     },
-    "pushedAt": "2025-10-29T20:08:52Z",
+    "pushedAt": "2025-10-29T20:11:34Z",
     "stargazersCount": 22963,
     "updatedAt": "2025-10-29T19:03:35Z",
     "url": "https://github.com/trufflesecurity/trufflehog",
@@ -7653,7 +7653,7 @@
       "type": "Organization",
       "url": "https://github.com/vercel"
     },
-    "pushedAt": "2025-10-29T19:51:07Z",
+    "pushedAt": "2025-10-29T20:11:27Z",
     "stargazersCount": 135360,
     "updatedAt": "2025-10-29T19:44:24Z",
     "url": "https://github.com/vercel/next.js",
@@ -7994,8 +7994,8 @@
       "url": "https://github.com/yt-dlp"
     },
     "pushedAt": "2025-10-28T15:17:16Z",
-    "stargazersCount": 133114,
-    "updatedAt": "2025-10-29T19:58:44Z",
+    "stargazersCount": 133116,
+    "updatedAt": "2025-10-29T20:18:38Z",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "__query": "topic:cli language:rust created:>2025-10-28"
   },
