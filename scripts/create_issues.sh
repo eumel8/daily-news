@@ -43,6 +43,15 @@ count=0
   desc=$(echo "$repo" | jq -r '.description // "(no description)"')
   score=$(echo "$repo" | jq -r '.score')
   pushedAt=$(echo "$repo" | jq -r '.pushedAt // .createdAt')
+  stars=$(echo "$repo" | jq -r '.stargazersCount // 0')
+  forks=$(echo "$repo" | jq -r '.forksCount // 0')
+  language=$(echo "$repo" | jq -r '.language // "N/A"')
+
+  # Extract score breakdown if available
+  score_recency=$(echo "$repo" | jq -r '.score_breakdown.recency // 0')
+  score_stars=$(echo "$repo" | jq -r '.score_breakdown.stars // 0')
+  score_forks=$(echo "$repo" | jq -r '.score_breakdown.forks // 0')
+  age_hours=$(echo "$repo" | jq -r '.score_breakdown.age_hours // 0')
 
   if echo "$seen_urls" | grep -qx "$url"; then
     continue
@@ -52,16 +61,28 @@ count=0
     break
   fi
 
-  title="New repo: $fullName — score $(printf "%.1f" "$score")"
-  body="Repository: $url
+  title="📦 $fullName — score $(printf "%.1f" "$score")"
+  body="## Repository Info
 
-Description: $desc
+🔗 **Link**: $url
+⭐ **Stars**: $stars
+🍴 **Forks**: $forks
+💻 **Language**: $language
+📅 **Last pushed**: $pushedAt
+⏱️ **Age**: $(printf "%.1f" "$age_hours") hours
 
-Pushed: $pushedAt
+## Description
 
-Score: $score
+$desc
 
-Automatically discovered by github-daily-new-repos-issues."
+## Score Breakdown (Total: $(printf "%.1f" "$score"))
+
+- 🕒 **Recency**: $(printf "%.1f" "$score_recency") points
+- ⭐ **Stars**: $(printf "%.1f" "$score_stars") points
+- 🍴 **Forks**: $(printf "%.1f" "$score_forks") points
+
+---
+*Automatically discovered by github-daily-new-repos-issues*"
 
   # Create issue in THIS repository (not in the discovered repo)
   # The issue will contain information ABOUT the discovered repo

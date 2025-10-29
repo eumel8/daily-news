@@ -1,7 +1,20 @@
 [
   "topic:kubernetes language:go created:>{{YESTERDAY}}",
   "topic:observability language:go created:>{{YESTERDAY}}",
-  "topic:prometheus language:go created:>{{YESTERDAY}}",
-  "topic:ai language:go created:>{{YESTERDAY}}",
-  "topic:awesome created:>{{YESTERDAY}}"
+  "topic:ai language:python created:>{{YESTERDAY}}",
+  "topic:machine-learning language:python created:>{{YESTERDAY}}",
+  "topic:web3 language:rust created:>{{YESTERDAY}}",
+  "topic:cli language:rust created:>{{YESTERDAY}}",
+  "topic:react language:typescript created:>{{YESTERDAY}}",
+  "topic:nextjs language:typescript created:>{{YESTERDAY}}",
+  "topic:devtools created:>{{YESTERDAY}}",
+  "topic:developer-tools created:>{{YESTERDAY}}",
+  "topic:awesome created:>{{YESTERDAY}}",
+  "language:go stars:>5 pushed:>{{YESTERDAY}}",
+  "language:rust stars:>3 pushed:>{{YESTERDAY}}",
+  "language:typescript stars:>5 pushed:>{{YESTERDAY}}",
+  "topic:security language:go created:>{{YESTERDAY}}",
+  "topic:blockchain created:>{{YESTERDAY}}",
+  "topic:wasm created:>{{YESTERDAY}}",
+  "topic:api created:>{{YESTERDAY}}"
 ]
