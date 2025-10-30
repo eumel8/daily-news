@@ -5,10 +5,13 @@ Bash-based collector that searches GitHub for fresh repos matching queries and o
 ## Features
 
 - 🔄 **Smart State Management**: Tracks seen repos in git to prevent duplicates across runs
+- 🗃️ **Persistent Data Storage**: Maintains historical database of all discovered repos with automatic deduplication
+- 🧹 **Automatic Pruning**: Configurable retention period (default 30 days) prevents data files from growing indefinitely
 - 📊 **Intelligent Scoring**: Multi-factor scoring algorithm that balances recency, popularity, and diversity
 - 🎲 **Randomization**: Adds variety to results to prevent the same repos appearing daily
 - 🌈 **Diverse Queries**: Searches across multiple languages, topics, and criteria
 - 📈 **Detailed Reports**: Issues include score breakdowns and comprehensive repo info
+- 🚫 **Duplicate Prevention**: Filters repos against both historical data and state file to ensure truly new discoveries
 
 ## Requirements
 
@@ -55,16 +58,38 @@ The scoring algorithm uses multiple factors:
 
 ### Customization
 
-- Edit `MAX=10` in `scripts/create_issues.sh` to change number of daily issues
-- Adjust scoring weights in `scripts/scorer.sh` for different priorities
-- Modify search queries in `config/queries.json` for your interests
+- **Number of daily issues**: Edit `MAX=10` in `scripts/create_issues.sh`
+- **Scoring weights**: Adjust values in `scripts/scorer.sh` for different priorities
+- **Search queries**: Modify `config/queries.json` for your interests
+- **Data retention**: Set `RETENTION_DAYS` environment variable (default: 30 days)
+  - In GitHub Actions workflow: Add `RETENTION_DAYS: 60` to env vars
+  - When running locally: `export RETENTION_DAYS=60 && ./scripts/runner.sh`
+  - Lower values keep data files smaller; higher values prevent rediscovering recently seen repos
 
 ## How It Works
 
-1. **Collector** (`scripts/collector.sh`): Searches GitHub using queries, collects unique repos
-2. **Scorer** (`scripts/scorer.sh`): Applies multi-factor scoring algorithm with diversity features
-3. **Issue Creator** (`scripts/create_issues.sh`): Creates formatted issues for top repos, updates state
-4. **State Persistence**: Workflow commits `state.json` back to repo to track seen repos
+1. **Collector** (`scripts/collector.sh`):
+   - Loads existing repos from `data/raw_repos.json` and `state.json`
+   - Searches GitHub using configured queries
+   - Filters out previously discovered repos (deduplication)
+   - Merges new discoveries with historical data
+   - Prunes repos older than retention period (default: 30 days)
+   - Outputs only truly new repos for scoring
+
+2. **Scorer** (`scripts/scorer.sh`): Applies multi-factor scoring algorithm with diversity features to new repos
+
+3. **Issue Creator** (`scripts/create_issues.sh`): Creates formatted issues for top-scored repos, updates state
+
+4. **State Persistence**: Workflow commits both `state.json` and `data/` back to repo for next run
+
+### Deduplication Strategy
+
+The collector implements a multi-layered deduplication approach:
+- **Historical data** (`data/raw_repos.json`): All repos ever discovered (pruned by age)
+- **State file** (`state.json`): Repos for which issues have been created
+- **Current run**: Deduplicates within the current search results
+
+This ensures that repos are only discovered once and never re-processed, even across multiple runs.
 
 ## Security
 

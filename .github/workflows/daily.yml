@@ -25,6 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+          RETENTION_DAYS: 60
         run: |
           ./scripts/runner.sh
       - name: Commit state file
