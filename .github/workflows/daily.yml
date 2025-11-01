@@ -1,8 +1,8 @@
 name: Daily new-repos -> issues
 
 on:
-  schedule:
-    - cron: '0 7 * * *' # daily at 07:00 UTC
+  #schedule:
+  #  - cron: '0 7 * * *' # daily at 07:00 UTC
   workflow_dispatch:
 
 jobs:
