@@ -4360,6 +4360,26 @@
     "__query": "topic:nextjs language:typescript created:>2025-10-29"
   },
   {
+    "createdAt": "2019-05-09T19:42:55Z",
+    "description": "OpenTelemetry Collector",
+    "forksCount": 1767,
+    "fullName": "open-telemetry/opentelemetry-collector",
+    "language": "Go",
+    "name": "opentelemetry-collector",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjQ5OTk4MDAy",
+      "is_bot": false,
+      "login": "open-telemetry",
+      "type": "Organization",
+      "url": "https://github.com/open-telemetry"
+    },
+    "pushedAt": "2025-10-31T22:42:25Z",
+    "stargazersCount": 6168,
+    "updatedAt": "2025-11-01T07:07:01Z",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector",
+    "__query": "topic:observability language:go created:>2025-10-31"
+  },
+  {
     "createdAt": "2023-10-06T22:08:27Z",
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "forksCount": 15804,
@@ -5258,6 +5278,26 @@
     "updatedAt": "2025-10-30T07:05:01Z",
     "url": "https://github.com/slint-ui/slint",
     "__query": "topic:wasm created:>2025-10-29"
+  },
+  {
+    "createdAt": "2017-11-20T19:50:46Z",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "forksCount": 1898,
+    "fullName": "smartcontractkit/chainlink",
+    "language": "Go",
+    "name": "chainlink",
+    "owner": {
+      "id": "MDEyOk9yZ2FuaXphdGlvbjI1MTExMDMy",
+      "is_bot": false,
+      "login": "smartcontractkit",
+      "type": "Organization",
+      "url": "https://github.com/smartcontractkit"
+    },
+    "pushedAt": "2025-11-01T01:07:30Z",
+    "stargazersCount": 8042,
+    "updatedAt": "2025-11-01T07:01:11Z",
+    "url": "https://github.com/smartcontractkit/chainlink",
+    "__query": "topic:blockchain created:>2025-10-31"
   },
   {
     "createdAt": "2013-09-03T20:40:26Z",
